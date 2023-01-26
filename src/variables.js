@@ -1,7 +1,7 @@
 var variables = {
 
 // Startseite:
-startseite_ueberschrift: "Tischtennisfreunde Poppenhausen (Bay)",
+startseite_ueberschrift: "Tischtennisfreunde Poppenhausen (Ba)",
 startseiten_bild: "TischtennisfreundeBannerOText.png",
 
 
