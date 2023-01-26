@@ -1,0 +1,21 @@
+
+$body-bg: white;
+
+$theme-colors: (
+    primary: #ffdf9f,
+    secondary: #5a6268,
+    success: #28a745,
+    danger: #dc3545,
+    warning: #e0a800,
+    info: #138496,
+    light: #ffffff,
+    dark: #23272b,
+    link-color: black,
+) !default;
+
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
