@@ -40,7 +40,7 @@ aktuelles_card1_unterueberschrift: "Sun disappears!",
 aktuelles_card1_bild: "TischtennisfreundeBanner.jpeg",
 aktuelles_card1_text: "The sun disappeared behind the horizon today. Experts claim it could be gone for good!",
 
-aktuelles_card2_aktiv: false,
+aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "Sun Gone",
 aktuelles_card2_unterueberschrift: "Sun disappears!",
 aktuelles_card2_bild: "TischtennisfreundeBanner.jpeg",
