@@ -8,7 +8,7 @@
                 <h4 class="card-title">{{variable.aktuelles_card1_ueberschrift}}</h4>
                 <h6 class="card-subtitle text-muted">{{variable.aktuelles_card1_unterueberschrift}}</h6>
             </div>
-            <img :src="require(`@/assets/Bilder/${variable.aktuelles_card1_bild}`)" alt="Photo of sunset">
+            <img :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card1_bild}`)" alt="Photo of sunset">
             <div class="card-body">
                 <p class="card-text">{{variable.aktuelles_card1_text}}</p>
             </div>
@@ -20,7 +20,7 @@
                 <h4 class="card-title">{{variable.aktuelles_card2_ueberschrift}}</h4>
                 <h6 class="card-subtitle text-muted">{{variable.aktuelles_card2_unterueberschrift}}</h6>
             </div>
-            <img :src="require(`@/assets/Bilder/${variable.aktuelles_card2_bild}`)" alt="Photo of sunset">
+            <img :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card2_bild}`)" alt="Photo of sunset">
             <div class="card-body">
                 <p class="card-text">{{variable.aktuelles_card2_text}}</p>
             </div>
@@ -32,7 +32,7 @@
                 <h4 class="card-title">{{variable.aktuelles_card3_ueberschrift}}</h4>
                 <h6 class="card-subtitle text-muted">{{variable.aktuelles_card3_unterueberschrift}}</h6>
             </div>
-            <img :src="require(`@/assets/Bilder/${variable.aktuelles_card3_bild}`)" alt="Photo of sunset">
+            <img :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card3_bild}`)" alt="Photo of sunset">
             <div class="card-body">
                 <p class="card-text">{{variable.aktuelles_card3_text}}</p>
             </div>
