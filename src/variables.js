@@ -104,7 +104,8 @@ tsvGruss_aktiv: true,
 
 // Ueber den TSV:
 ueberDenTSV_aktiv: true,
-
+  
+  
 }
 
 export default variables;
