@@ -2,7 +2,7 @@ var variables = {
 
 // Navigationheader / Navigationskopf
 logo_bild: "Logo.png",
-navigations_titel: "TT-Freunde",
+navigations_titel: "TT Freunde",
 
 
 // Startseite:
