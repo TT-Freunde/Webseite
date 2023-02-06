@@ -14,8 +14,9 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a class="navbar-brand order-sm-last" href="/">
-                    <img class="d-inline-block align-text-top" height="50" src="../assets/Bilder/Fahne.png">
+                <a class="navbar-brand order-sm-last d-flex align-items-center" href="/">
+                    <h5 class="headerUeberschrift"><b>{{variable.navigations_titel}}</b></h5>
+                    <img class="d-inline-block align-text-top headerImg" height="50" :src="require(`@/assets/Bilder/${variable.logo_bild}`)">
                 </a>
 
                 <div
@@ -74,3 +75,45 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+    .headerUeberschrift{
+        display: inline-block;
+        margin-bottom: 0px !important;
+    }
+
+    .headerImg{
+        margin-top: 5px !important;
+        margin-left: 5px !important;
+    }
+
+    @media screen and (max-width: 576px) {
+        .headerUeberschrift{
+            display: inline-block !important;
+        }
+    }
+
+    @media screen and (min-width: 576px) and (max-width: 768px) {
+        .headerUeberschrift{
+            display: none !important;
+        }
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 992px) {
+        .headerUeberschrift{
+            display: none !important;
+        }
+    }
+
+    @media screen and (min-width: 992px) and (max-width: 1200px) {
+        .headerUeberschrift{
+            display: inline-block !important;
+        }
+    }
+
+    @media screen and (min-width: 1200px) {
+        .headerUeberschrift{
+            display: inline-block !important;
+        }
+    }
+</style>

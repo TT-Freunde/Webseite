@@ -1,5 +1,10 @@
 var variables = {
 
+// Navigationheader / Navigationskopf
+logo_bild: "Fahne.png",
+navigations_titel: "TT-Freunde",
+
+
 // Startseite:
 startseite_ueberschrift: "Tischtennisfreunde Poppenhausen (Bay)",
 startseiten_bild: "TischtennisfreundeBannerOText.png",
