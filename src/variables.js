@@ -43,7 +43,7 @@ aktuelles_card1_aktiv: true,
 aktuelles_card1_ueberschrift: "Großer Dank",
 aktuelles_card1_unterueberschrift: "Großer Dank an Stefan (TT Bezirkswart) von der DJK Gänheim",
 aktuelles_card1_bild: "Aktuelles1.jpg",
-aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestallten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
+aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
 
 aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "Neue Platte",
