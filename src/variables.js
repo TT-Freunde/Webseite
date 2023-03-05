@@ -46,10 +46,10 @@ aktuelles_card1_bild: "Aktuelles1.jpg",
 aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Neue Platte",
-aktuelles_card2_unterueberschrift: "Bestellt aber noch nicht geliefert!",
+aktuelles_card2_ueberschrift: "Neue TT-Platten",
+aktuelles_card2_unterueberschrift: "Unsere neuen TT-Platten sind da!",
 aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: "Unsere zwei TT-Gruppen erwarten ungeduldig unsere neue TT-Platte, um endlich eine der etwa 30 Jahre alten TT-Platten aus der Werntalhalle ersetzen zu können. Dafür ein herzliches Dankeschön an unsere TT-Freunde & Gönner.",
+aktuelles_card2_text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, Gönner und Riedel-Bau.",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV:",
