@@ -7,7 +7,7 @@ navigations_titel: "TT-Freunde",
 
 // Startseite:
 startseite_ueberschrift: "Tischtennisfreunde Poppenhausen (Bay)",
-startseiten_bild: "Ttt_banner_header_new.png",
+startseiten_bild: "tt_banner_header_new.png",
 
 
 //Unsere Motivation
