@@ -95,7 +95,7 @@ kontakt_aktiv: true,
 
 kontakt_name: "Lutz Urlau",
 kontakt_tel: "015123260710",
-
+kontakt_mail: "tt.poppenhausen@outlook.de",
 
 // TSV Gruss:
 tsvGruss_aktiv: true,

@@ -105,4 +105,7 @@ export default {
   .tel{
     color: black;
   }
+    .mail{
+    color: black;
+  }
 </style>

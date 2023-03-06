@@ -201,7 +201,7 @@
                         <div class="card-body">
                             <h4 class="card-title">Kinder (7-14)</h4>
                         </div>
-                        <img src="../assets/Bilder/TischtennisfreundeBanner.jpeg" alt="Photo of sunset">
+                        <img src="../assets/Bilder/Sportarten/ueber_TSV_table_tennis.jpg" alt="Photo of sunset">
                         <div class="card-body">
                             <p class="card-text"><b>Kontakt:</b> Lutz Urlau</p>
                         </div>
@@ -212,7 +212,7 @@
                         <div class="card-body">
                             <h4 class="card-title">Jugend/ Erwachsene (14-80)</h4>
                         </div>
-                        <img src="../assets/Bilder/TischtennisfreundeBanner.jpeg" alt="Photo of sunset">
+                        <img src="../assets/Bilder/Sportarten/ueber_TSV_table_tennis.jpg" alt="Photo of sunset">
                         <div class="card-body">
                             <p class="card-text"><b>Kontakt:</b> Lutz Urlau</p>
                         </div>
