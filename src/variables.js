@@ -16,10 +16,9 @@ motivation_aktiv: true,
 motivation_text_ueberschrift: "Unsere „Motivation“",
 motivation_text_absatz1: "Tischtennis ist eine vielseitige Sportart für",
 motivation_text_absatz1_fett: "alle!",
-motivation_text_absatz1_1: "TEST--------------------",
 
 motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit trainiert und macht garantiert noch eine Menge Spaß.",
-motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer Donnerstags in der Werntahlhalle. Aktuell haben uns in eine Judgend- und Erwachsenengruppe aufgeteilt, um so besser aufjeden einzelnen eingehen zu können.Kommt doch einfach mal zum 'Schnuppern' auf ein Probetraining vorbei! Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Tischen und bei Bedarf an unserem Butterfly TT-Roboter. Da im Jugendbereich schon etliche Kinder kommen, bitten wir Interessierte kids vorab Kontakt mit Lutz Urlaub aufzunhemen ",
+motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Tischen und bei Bedarf an unserem Butterfly TT-Roboter. Da im Jugendbereich schon etliche Kinder spielen, bitten wir Interessierte Kids vorab Kontakt mit Lutz Urlau aufzunhemen. Kommt doch einfach mal zum 'Schnuppern' auf ein Probetraining vorbei!",
 
 
 // Trainingszeiten:
