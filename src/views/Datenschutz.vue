@@ -3,14 +3,31 @@
         <div class="col-1"/>
         <div class="col-10">
         <h1>Datenschutz:</h1>
-        <h5>Datenschutzerklärung Verantwortlich im Sinne der Datenschutzgesetzes: 
+        <h5>Datenschutzerklärung
         <br>
+        <br>Verantwortlich im Sinne der Datenschutzgesetzes: 
         <br>Alexander Ortloff
         <br>Rudolf-Werner-Straße 1A
         <br>97490 Poppenhausen 
         <br>
         <br><b>Datenschutz</b> 
-        <br>Als Webseitenbetreiber nehmen wir den Schutz aller persönlichen Daten sehr ernst. Alle personenbezogenen Informationen werden vertraulich und gemäß den gesetzlichen Vorschriften behandelt, wie in dieser Datenschutzerklärung erläutert. 
+        <br> Als Webseitenbetreiber nehmen wir den Schutz aller persönlichen Daten sehr ernst.
+        <br> Uns ist der Schutz Ihrer persönlichen Daten wichtig und wir erklären Ihnen gerne, welche Daten wir wozu benötigen, wie lange wir die Daten speichern und was wir mit den uns anvertrauten personenbezogen Daten tun.
+        <br> Was wir nicht mit Ihren persönlichen Daten machen:
+        <br> 
+        <br> • Unbefugt persönliche Daten an Dritte weiter geben. 
+        <br> • Mehr als die notwendigen Daten von Ihnen erheben.
+        <br> • Die Daten zu einem anderen als dem hier geschilderten Zweck verwenden. 
+        <br>
+        <br><b>Ihre Datenschutz-Rechte als Verbraucher</b>
+        <br> 
+        <br> Die Datenschutzgrundverordnung hat Ihre Rechte als Verbraucher deutlich gestärkt und gibt Ihnen folgende Möglichkeiten unseren Umgang mit Ihren personenbezogenen Daten zu kontrollieren.
+        <br>
+        <br> • Recht auf Auskunft 
+        <br> Sie erhalten auf Wunsch Auskunft über die gesetzliche Grundlage, den praktischen Grund und die Dauer der Datenspeicherung. Über die Art und Kategorie der Daten, deren Verarbeitung und etwaige Weitergabe an berechtigte Dritte (Auftragsverarbeiter). 
+        <br>
+        <br> Alle personenbezogenen Informationen werden vertraulich und gemäß den gesetzlichen Vorschriften behandelt, wie in dieser Datenschutzerklärung erläutert.
+        <br>
         <br>Unserer Webseite kann selbstverständlich genutzt werden, ohne dass Sie persönliche Daten angeben. Wenn jedoch zu irgendeinem Zeitpunkt persönliche Daten wie z.B. Name, Adresse oder E-Mail abgefragt werden, wird dies auf freiwilliger Basis geschehen. Niemals werden von uns erhobene Daten ohne Ihre spezielle Genehmigung an Dritte weitergegeben. 
         <br>Datenübertragung im Internet, wie zum Beispiel über E-Mail, kann immer Sicherheitslücken aufweisen. Der komplette Schutz der Daten ist im Internet nicht möglich. 
         <br>
@@ -47,6 +64,10 @@
         <br><b>Kontakt zum Datenschutzmitarbeiter </b>
         <br>Für Fragen zum Datenschutz schicken Sie uns bitte eine Nachricht an tt.poppenhausen@outlook.de mit dem Betreff „Datenschutz“. 
         <br>Diese Widerrufsbelehrung Seite wurde bei datenschutzerklärungmuster.de erstellt.</h5>
+        <br>
+        <br> Aktualität der Datenschutzerklärung
+        <br> Die Datenschutzerklärung hat den Stand vom 01.08.2022 und kann jederzeit aktuellen Änderungen in der Rechtsprechung oder bei technischen Entwicklungen angepasst werden.
+        <br>
         </div>
         <div class="col-1"/>
     </div>

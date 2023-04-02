@@ -16,9 +16,10 @@ motivation_aktiv: true,
 motivation_text_ueberschrift: "Unsere „Motivation“",
 motivation_text_absatz1: "Tischtennis ist eine vielseitige Sportart für",
 motivation_text_absatz1_fett: "alle!",
+motivation_text_absatz1_1: "TEST--------------------",
 
 motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit trainiert und macht garantiert noch eine Menge Spaß.",
-motivation_text_absatz2_2: "Kommt doch einfach auf ein Probetraining vorbei!",
+motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer Donnerstags in der Werntahlhalle. Aktuell haben uns in eine Judgend- und Erwachsenengruppe aufgeteilt, um so besser aufjeden einzelnen eingehen zu können.Kommt doch einfach mal zum 'Schnuppern' auf ein Probetraining vorbei! Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Tischen und bei Bedarf an unserem Butterfly TT-Roboter. Da im Jugendbereich schon etliche Kinder kommen, bitten wir Interessierte kids vorab Kontakt mit Lutz Urlaub aufzunhemen ",
 
 
 // Trainingszeiten:
@@ -27,7 +28,7 @@ trainingszeiten_aktiv: true,
 trainingszeiten_ueberschrift: "Trainingszeiten 2023",
 trainingszeiten_unterueberschrift: "(außer Schulferien)",
 
-trainingszeiten_absatz1_ueberschrift: "Kinder bis ca. 14 (gemischt):",
+trainingszeiten_absatz1_ueberschrift: "Kinder bis ca. 16 (gemischt):",
 trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr in der Werntalhalle in 97490 Poppenhausen",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend & Erwachsene (gemischt):",
@@ -53,9 +54,9 @@ aktuelles_card2_text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, G
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV:",
-aktuelles_card3_unterueberschrift: "Kerle auf Kur - Komödie/ Ottinger & Rasssau am 25.03.2023 in Poppenhausen",
+aktuelles_card3_unterueberschrift: "Die Veranstaltung -Kerle auf Kur- eine Komödie mit Ottinger & Rasssau am 25.03.2023 in Poppenhausen war ein umwerfender Erfolg",
 aktuelles_card3_bild: "Aktuelles3.jpg",
-aktuelles_card3_text: "Martin Rassau nimmt sich zusammen mit Bernhard Ottinger in seinem neuen Programm einer besonders vernachlässigten Spezies an: dem leidenden Mann! Wie der Titel es schon verspricht, geht es hier um die Männer und da weiss man ja das sie manchmal auch richtige Memmen sein können! Gerade wenn es um Krankheiten geht.",
+aktuelles_card3_text: "Der TSV freut sich über diese gelunge Veranstaltung mit einer nahezu ausverkauften Werntalalle. Durch diesen Erfolg ermutigt, ist eine weitere Komödie  mit Stephan Bauer -Vor der Ehe wollt ich ewig leben- am Samstag, den 25.11.2023 in der Werntalhalle Poppenhausen angesetzt worden. VVK: 0171/7927265",		
 
 
 // Bilder:

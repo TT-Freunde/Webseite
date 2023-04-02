@@ -1,6 +1,9 @@
 <template>
 <div>
     <h3>Lernvideos:</h3><br>
+    <br>Durch das Anklicken der Lernvideos verlassen sie unsere Hompage und aktiveren automatisch die Webseite von YouToub.
+    <br>Mit dem Aufruf haben sie auch automatisch der AGB von YouTube und deren Webseiten-Datenverarbeitung (incl. Cookies) zugestimmt.
+    <br> 
     <div class="row-fluid">
         <div class="col-12">
             <div class="cover-container">
