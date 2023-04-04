@@ -63,11 +63,12 @@
         <br>
         <br><b>Kontakt zum Datenschutzmitarbeiter </b>
         <br>Für Fragen zum Datenschutz schicken Sie uns bitte eine Nachricht an tt.poppenhausen@outlook.de mit dem Betreff „Datenschutz“. 
-        <br>Diese Widerrufsbelehrung Seite wurde bei datenschutzerklärungmuster.de erstellt.</h5>
+        <br>Diese Widerrufsbelehrung Seite wurde bei datenschutzerklärungmuster.de erstellt.
         <br>
-        <br> Aktualität der Datenschutzerklärung
+        <br> <b>Aktualität der Datenschutzerklärung</b>
         <br> Die Datenschutzerklärung hat den Stand vom 01.08.2022 und kann jederzeit aktuellen Änderungen in der Rechtsprechung oder bei technischen Entwicklungen angepasst werden.
         <br>
+        </h5>
         </div>
         <div class="col-1"/>
     </div>

@@ -1,6 +1,7 @@
 <template>
 <div>
-    <h3>Aktuelles: TSV Poppenhausen - Jahreshauptversammlung mit Neuwahlen der Vorstandschaft; 16.04.2023 18:00 Uhr; Sportheim</h3>
+    <h3>Aktuelles:</h3>
+    <h4>TSV Poppenhausen - Jahreshauptversammlung mit Neuwahlen der Vorstandschaft; 16.04.2023 18:00 Uhr; Sportheim</h4>
     <br>
     <div class="row">
         <div v-if="variable.aktuelles_card1_aktiv" class="card h-100 col-md-4">

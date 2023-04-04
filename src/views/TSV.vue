@@ -10,6 +10,12 @@
                 <img src="../assets/Bilder/TSVPoppenhausenLogo.jpeg">
             </div>
             <br>
+                        <hr>
+            <center>
+            <h3>Aktuelles:</h3>
+            <h4>TSV Poppenhausen - Jahreshauptversammlung mit Neuwahlen der Vorstandschaft; 16.04.2023 18:00 Uhr; Sportheim</h4>
+            </center>
+            <hr>
             <br>
             <div class="d-flex justify-content-center">
                 <h3>Wir freuen uns über 160 aktive Mitglieder in folgenden Gruppen:</h3>

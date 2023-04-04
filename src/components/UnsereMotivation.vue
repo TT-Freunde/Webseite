@@ -10,6 +10,14 @@
         <p class="h4">{{variable.motivation_text_absatz2_1}}
           <br>{{variable.motivation_text_absatz2_2}}
         </p>
+        <br>
+        <p class="h4">
+          {{variable.motivation_text_absatz3_1}}
+        </p>
+        <br>
+        <p class="h4">
+          {{variable.motivation_text_absatz4_1}}
+        </p>
       </div>
       <div class="col-1"/>
     </div>
