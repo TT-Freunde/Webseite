@@ -18,7 +18,7 @@
             <hr>
             <br>
             <div class="d-flex justify-content-center">
-                <h3>Wir freuen uns über 160 aktive Mitglieder in folgenden Gruppen:</h3>
+                <h3>Wir freuen uns über rund 150 aktive Mitglieder in folgenden Gruppen:</h3>
             </div>
             <br>
             <h3>Gymnastik:</h3>
@@ -26,7 +26,7 @@
                 <div class="col-lg-3">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h4 class="card-title">Senioren 1 & 2 (Männer)</h4>
+                            <h4 class="card-title">Männer/ Senioren 1 & 2 </h4>
                         </div>
                         <img src="../assets/Bilder/Sportarten/GymnastikMaenner.jpg" alt="Photo of sunset">
                         <div class="card-body">
@@ -37,7 +37,7 @@
                 <div class="col-lg-3">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h4 class="card-title">Senioren 1 & 2 (Frauen)</h4>
+                            <h4 class="card-title">Frauen/ SeniorInnen 1 & 2 </h4>
                         </div>
                         <img src="../assets/Bilder/Sportarten/Gymnastik.jpg" alt="Photo of sunset">
                         <div class="card-body">
@@ -58,7 +58,7 @@
                         </div>
                         <img src="../assets/Bilder/Sportarten/Garde.jpg" alt="Photo of sunset">
                         <div class="card-body">
-                            <p class="card-text">Mädchen, bzw. junge Damen</p>
+                            <p class="card-text">Mädchen, bzw. junge Frauen</p>
                         </div>
                     </div>
                 </div>
@@ -205,7 +205,7 @@
                 <div class="col-lg-3">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h4 class="card-title">Kinder (7-14)</h4>
+                            <h4 class="card-title">Kinder + Jugend</h4>
                         </div>
                         <img src="../assets/Bilder/Sportarten/ueber_TSV_table_tennis.jpg" alt="Photo of sunset">
                         <div class="card-body">
@@ -216,7 +216,7 @@
                 <div class="col-lg-3">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h4 class="card-title">Jugend/ Erwachsene (14-80)</h4>
+                            <h4 class="card-title">Jugend + Erwachsene </h4>
                         </div>
                         <img src="../assets/Bilder/Sportarten/ueber_TSV_table_tennis.jpg" alt="Photo of sunset">
                         <div class="card-body">
@@ -233,11 +233,11 @@
                 <div class="col-lg-3">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h4 class="card-title">Jugend-Korbball Mädchen</h4>
+                            <h4 class="card-title">Korbball (Kinder + Jugend + Frauen) </h4>
                         </div>
                         <img src="../assets/Bilder/Sportarten/Korbball.jpg" alt="Photo of sunset">
                         <div class="card-body">
-                            <p class="card-text">In Kooperation mit der DJK Maibach</p>
+                            <p class="card-text">In Kooperation mit der DJK Maibach, bzw. dem TSV Kützberg</p>
                         </div>
                     </div>
                 </div>
