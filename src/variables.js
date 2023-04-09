@@ -83,13 +83,13 @@ bilder_bild4_source: "BildTurnhalle.jpeg",
 lernvideos_aktiv: true,
 
 lernvideos_video1_aktiv: true,
-lernvideos_video1_source: "https://www.youtube.com/embed/OKmWqc8ae_A",
+lernvideos_video1_source: "https://www.youtube-nocookie.com/embed/OKmWqc8ae_A", //Wichtig! -nocookie verwenden
 
 lernvideos_video2_aktiv: true,
-lernvideos_video2_source: "https://www.youtube.com/embed/WmytaGgHF_4" ,
+lernvideos_video2_source: "https://www.youtube-nocookie.com/embed/WmytaGgHF_4" , //Wichtig! -nocookie verwenden
 
 lernvideos_video3_aktiv: true,
-lernvideos_video3_source: "https://www.youtube.com/embed/PZBbbDV7uO8",
+lernvideos_video3_source: "https://www.youtube-nocookie.com/embed/PZBbbDV7uO8", //Wichtig! -nocookie verwenden
 
 lernvideos_video4_aktiv: false,
 lernvideos_video4_source: "",
