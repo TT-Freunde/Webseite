@@ -13,7 +13,7 @@
                         <hr>
             <center>
             <h3>Aktuelles:</h3>
-            <h4>TSV Poppenhausen - Jahreshauptversammlung mit Neuwahlen der Vorstandschaft; 16.04.2023 18:00 Uhr; Sportheim</h4>
+            <h4>TSV Poppenhausen - Außerordentliche Mitgliederversammlung zur Neuwahl des 1. Vorstandes in Planung.</h4>
             </center>
             <hr>
             <br>
