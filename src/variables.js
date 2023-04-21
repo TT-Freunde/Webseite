@@ -19,9 +19,9 @@ motivation_text_absatz1_fett: "alle!",
 
 motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit und Wettkampf trainiert. Und natürlich macht dieser Sport noch eine Menge Spaß.",
 
-motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Tischen und bei Bedarf an unserem Butterfly TT-Roboter.",
+motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz3_1: "Da im Jugendbereich schon etliche Kinder spielen, bitten wir interessierte Kids vorab Kontakt mit Lutz Urlau aufzunhemen.",
+motivation_text_absatz3_1: "Da im Kinderbereich schon ausreichend Kinder haben, bitten wir interessierte Kids vorab Kontakt mit Lutz Urlau aufzunhemen.",
 
 motivation_text_absatz4_1: "Kommt doch einfach mal zum 'Schnuppern' oder zum Spielen vorbei!",
 

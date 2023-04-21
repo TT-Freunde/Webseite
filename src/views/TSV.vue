@@ -13,7 +13,7 @@
                         <hr>
             <center>
             <h3>Aktuelles:</h3>
-            <h4>TSV Poppenhausen - Außerordentliche Mitgliederversammlung zur Neuwahl des 1. Vorstandes in Planung.</h4>
+            <h4>TSV Poppenhausen - Außerordentliche Mitgliederversammlung zur Neuwahl des 1. und 2. Vorstandes und Kassierer am 19.05.2023 um 19 Uhr im Sportheim.</h4>
             </center>
             <hr>
             <br>

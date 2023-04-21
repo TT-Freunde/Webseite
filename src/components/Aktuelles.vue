@@ -1,8 +1,9 @@
 <template>
 <div>
     <h3>Aktuelles:</h3>
+    <h4>- Werntalhalle Poppenhausen "Tag der offenen Tür": Am Samstag, den 29.04.2023 zwischen 14:00- 16:00 Uhr besteht die Möglichkeit die Tischtennisabteilung kennen zu lernen und TT zu spielen.</h4>
     <h4>- Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht.</h4>
-    <h4>- Aktuell finden Planungen statt, eine U19 TT-Jugendmannschaft für die ByTTV Herbstsaison 2023 zu melden.</h4>
+    <h4>- Aktuell finden Planungen statt, eine U19 TT-Jugendmannschaft für die BTTV Herbstsaison 2023 zu melden.</h4>
     <br>
     <div class="row">
         <div v-if="variable.aktuelles_card1_aktiv" class="card h-100 col-md-4">
