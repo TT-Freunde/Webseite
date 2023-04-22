@@ -58,7 +58,7 @@ aktuelles_card2_text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, G
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV:",
-aktuelles_card3_unterueberschrift: "1) TSV Poppenhausen - Außerordentliche Mitgliederversammlung zur Neuwahl des 1. und 2. Vorstandes und Kassierer am 19.05.2023 um 19 Uhr im Sportheim.",
+aktuelles_card3_unterueberschrift: "1) TSV Poppenhausen - Außerordentliche Mitgliederversammlung zur Neuwahl des 1./ 2./ 3. Vorstandes und Kassier am 19.05.2023 um 19 Uhr im Sportheim.",
 aktuelles_card3_bild: "Aktuelles3.jpg", 
 aktuelles_card3_text: "2) Die Veranstaltung -Kerle auf Kur- eine Komödie mit Ottinger & Rasssau am 25.03.2023 in Poppenhausen war ein umwerfender Erfolg. Der TSV freut sich über diese gelunge Veranstaltung mit einer nahezu ausverkauften Werntalalle. Durch diesen Erfolg ermutigt, ist eine weitere Komödie  mit Stephan Bauer -Vor der Ehe wollt ich ewig leben- am Samstag, den 25.11.2023 in der Werntalhalle Poppenhausen angesetzt worden. VVK: 0171/7927265",		
 
