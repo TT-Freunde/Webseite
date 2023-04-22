@@ -52,7 +52,7 @@ aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufz
 
 aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "Neue TT-Platten",
-aktuelles_card2_unterueberschrift: "Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht.!",
+aktuelles_card2_unterueberschrift: "Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht!",
 aktuelles_card2_bild: "Aktuelles2.jpg",
 aktuelles_card2_text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, Gönner und Riedel-Bau.",
 
