@@ -10,6 +10,7 @@
     <br>
     <a href="https://auren.com/de/blog/verein-ohne-vorstand-wann-wird-das-fuer-den-verein-und-den-alt-vorstand-zum-problem/">Rechteberatung Auren: Verein ohne Vorstand</a>
     <br>
+    <a href="https://www.gem-gruppe.de/newsarchiv-artikel/praxisfall-verein-ohne-vorstand">Rechteberatung gem-gruppe: Praxisfall Verein ohne Vorstand</a>
     <br>
     <div class="row">
         <div v-if="variable.aktuelles_card1_aktiv" class="card h-100 col-md-4">

@@ -17,6 +17,9 @@
             </center>
             <hr>
             <br>
+            <h6> Die Homepage der Tischtennisfreunde-Poppenhausen unterliegt der DSGVO, daher müssen Veröffentlichungen mit dem Datenschutzbeauftragten des TSV, bzw. der TT-Freunde abgestimmt werden.</h6>
+            <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. befindet sich zur Zeit in der Überarbeitung. Vorschläge zur Gestalltung und Fragen bitte an die Mail-Adresse "tt-poppenhausen@outlook.de" senden. Bei Fragen zur bisherigen TSV Homepage http://www.tsv.poppenhausen.de - welche als Sub-Domäne der Webseite "www.poppenhausen.de" angelegt wurde- wenden Sie sich bitte an die Gemeinde Poppenhausen. Nachfolgend finden Sie einen ersten Entwurf.</h6>
+            <br>
             <div class="d-flex justify-content-center">
                 <h3>Wir freuen uns über rund 150 aktive Mitglieder in folgenden Gruppen:</h3>
             </div>
