@@ -5,7 +5,7 @@
         <h1>Datenschutz:</h1>
         <h5>Datenschutzerklärung
         <br>
-        <br>Verantwortlich im Sinne der Datenschutzgesetzes: 
+        <br>Verantwortlich im Sinne der Datenschutzgesetze: 
         <br>TSV Poppenhausen 1910 e.V.
         <br>Beauftragter für Datenschutz-Themen: Alexander Ortloff
         <br>Rudolf-Werner-Straße 1A
