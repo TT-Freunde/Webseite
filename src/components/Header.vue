@@ -41,6 +41,9 @@
                         <li v-if="variable.kontakt_aktiv" class="nav-item">
                             <a class="nav-link text-dark btn" href="/#kontakt"><b>Kontakt</b></a>
                         </li>
+                        <li v-if="variable.rueckblick_aktiv" class="nav-item">
+                            <a class="nav-link text-dark btn" href="/rueckblick"><b>Rückblick</b></a>
+                        </li>
                         <li v-if="variable.ueberDenTSV_aktiv" class="nav-item">
                             <a class="nav-link text-dark btn" href="/tsv"><b>Über den TSV</b></a>
                         </li>

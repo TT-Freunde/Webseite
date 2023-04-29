@@ -106,6 +106,23 @@ kontakt_mail: "tt.poppenhausen@outlook.de",
 tsvGruss_aktiv: true,
 
 
+// Rückblick:
+rueckblick_aktiv: true,
+rueckblick_cards:[
+    {
+        ueberschrift: "Großer Dank",
+        unterueberschrift: "Großer Dank an Stefan (TT Bezirkswart) von der DJK Gänheim",
+        text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
+        bild: "Rueckblick1.jpg"
+    },
+    {
+        ueberschrift: "Neue TT-Platten",
+        unterueberschrift: "Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht!",
+        text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, Gönner und Riedel-Bau.",
+        bild: "Rueckblick2.jpg"
+    }
+],
+
 
 // Ueber den TSV:
 ueberDenTSV_aktiv: true,

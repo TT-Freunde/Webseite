@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import Rueckblick from '../views/Rueckblick.vue'
 import TSV from '../views/TSV.vue'
 import Impressum from '../views/Impressum.vue'
 import Datenschutz from '../views/Datenschutz.vue'
@@ -9,6 +10,11 @@ const routes = [
     path: '/',
     name: 'home',
     component: HomeView
+  },
+  {
+    path: '/rueckblick',
+    name: 'rueckblick',
+    component: Rueckblick
   },
   {
     path: '/tsv',
