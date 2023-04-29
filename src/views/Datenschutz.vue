@@ -7,7 +7,7 @@
         <br>
         <br>Verantwortlich im Sinne der Datenschutzgesetze: 
         <br>TSV Poppenhausen 1910 e.V.
-        <br>Beauftragter für Datenschutz-Themen: Alexander Ortloff
+        <br>Kontakt zum Thema Datenschutz im Verein: Alexander Ortloff
         <br>Rudolf-Werner-Straße 1A
         <br>97490 Poppenhausen 
         <br>
@@ -73,6 +73,8 @@
         <br>
         <a href="https://www.bmj.de/DE/Themen/FokusThemen/DSGVO/DSVGO_node.html">Bundesministerium der Justiz: Datenschutz-Grundverordnung</a>
         <br>
+       <a href="https://www.lda.bayern.de/de/thema_vereine.html">Bayrisches Landesamt für Datenschutzaufsicht- Praxisratgeber für Vereine</a>
+       <br>
         <a href="https://www.handelsregister.de/rp_web/erweitertesuche.xhtml">Vereinsregister Bayern Amtsgericht Schweinfurt VR-Nr 237 </a>
         <br>
         </h5>

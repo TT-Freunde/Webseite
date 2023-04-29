@@ -110,17 +110,23 @@ tsvGruss_aktiv: true,
 rueckblick_aktiv: true,
 rueckblick_cards:[
     {
-        ueberschrift: "Großer Dank",
-        unterueberschrift: "Großer Dank an Stefan (TT Bezirkswart) von der DJK Gänheim",
-        text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
+        ueberschrift: "Tag der offenen Tür in der Werntalhalle",
+        unterueberschrift: "29.04.2023 von 14:00 - 16:00 Uhr",
+        text: " Vorstellung der Tischtennisabteilung, der Ausrüstung und Angebote zum TT spielen",
         bild: "Rueckblick1.jpg"
     },
     {
-        ueberschrift: "Neue TT-Platten",
-        unterueberschrift: "Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht!",
-        text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, Gönner und Riedel-Bau.",
+        ueberschrift: "Unsere neuen TT-Platten",
+        unterueberschrift: "15.04.2023",
+        text: "Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht!. Dafür ein herzliches Dankeschön an unsere TT-Freunde, Gönner und Riedel-Bau.",
         bild: "Rueckblick2.jpg"
-    }
+    },
+    {
+        ueberschrift: "Unsere TT-Hompage wurde online gestellt",
+        unterueberschrift: "22.02.2023",
+        text: "Dafür ein herzliches Dankeschön an Sebastian Pfülb. Die Homepage wurde durch Sebastian eigenständig konzipiert und via HTML und CCS in Visual Studio entwickelt. Herausheben möchten wir die tolle Beratung bei der Ausgestaltung, das fachliche Wissen und der unkomplizierte Support bei der Adminstration der Webseite.",
+        bild: "Rueckblick3.jpg"
+    },
 ],
 
 
