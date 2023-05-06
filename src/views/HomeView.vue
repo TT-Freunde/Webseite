@@ -32,6 +32,16 @@
     </div>
     <br v-if="variable.aktuelles_aktiv">
     <hr v-if="variable.aktuelles_aktiv">
+    <br v-if="variable.pdf_bild_anzeige_home_aktiv">
+    <div v-if="variable.pdf_bild_anzeige_home_aktiv" class="row">
+      <div v-if="variable.pdf_bild_anzeige_home_aktiv" class="col-1"/>
+      <div v-if="variable.pdf_bild_anzeige_home_aktiv" class="col-10">
+        <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_home_titel" :src="variable.pdf_bild_anzeige_home_src" :button_text="variable.pdf_bild_anzeige_home_button" :pdf="variable.pdf_bild_anzeige_home_pdf" v-if="variable.pdf_bild_anzeige_home_aktiv" id="pdfbildanzeige"/>
+      </div>
+      <div v-if="variable.pdf_bild_anzeige_home_aktiv" class="col-1"/>
+    </div>
+    <br v-if="variable.pdf_bild_anzeige_home_aktiv">
+    <hr v-if="variable.pdf_bild_anzeige_home_aktiv">
     <br v-if="variable.bilder_aktiv">
     <div v-if="variable.bilder_aktiv" class="row">
       <div v-if="variable.bilder_aktiv" class="col-1"/>
@@ -72,6 +82,7 @@ import Bilder from "../components/Bilder.vue";
 import Lernvideos from "../components/Lernvideos.vue";
 import Kontakt from "../components/Kontakt.vue";
 import TSVGruss from "../components/TSVGruss.vue";
+import PDFBildAnzeige from "../components/PDF_BildAnzeige.vue";
 
 import variables from "@/variables.js";
 
@@ -90,6 +101,7 @@ export default {
     Lernvideos,
     Kontakt,
     TSVGruss,
+    PDFBildAnzeige,
   },
   methods: {
     

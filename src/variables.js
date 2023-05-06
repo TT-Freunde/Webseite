@@ -63,6 +63,23 @@ aktuelles_card3_bild: "Aktuelles3.jpg",
 aktuelles_card3_text: "2) Samstag, 25.11.2023 um 20 Uhr; Werntalhalle; Kabarett mit Stephan Bauauer; VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstallter TSV Popp GbR. ",		
 
 
+
+// PDF_Bild-Anzeige Home
+pdf_bild_anzeige_home_aktiv: false,
+pdf_bild_anzeige_home_pdf: false,
+pdf_bild_anzeige_home_titel: "Banner",
+pdf_bild_anzeige_home_src: "Bilder/TischtennisfreundeBanner.jpeg",
+pdf_bild_anzeige_home_button: "Bild öffnen",
+
+
+// PDF_Bild-Anzeige TSV
+pdf_bild_anzeige_tsv_aktiv: false,
+pdf_bild_anzeige_tsv_pdf: true,
+pdf_bild_anzeige_tsv_titel: "TSV-Satzung",
+pdf_bild_anzeige_tsv_src: "TSVSATZUNG.pdf",
+pdf_bild_anzeige_tsv_button: "PDF öffnen",
+
+
 // Bilder:
 bilder_aktiv: false,
 

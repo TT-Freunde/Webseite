@@ -20,6 +20,12 @@
             <h6> Die Homepage der Tischtennisfreunde-Poppenhausen unterliegt der DSGVO, daher müssen Veröffentlichungen mit dem Datenschutzbeauftragten des TSV, bzw. der TT-Freunde abgestimmt werden.</h6>
             <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. befindet sich zur Zeit in der Überarbeitung. Vorschläge zur Gestaltung und Fragen bitte an die Mail-Adresse "tt-poppenhausen@outlook.de" senden. Bei Fragen zur bisherigen TSV Homepage http://www.tsv.poppenhausen.de, welche als Sub-Domäne der Webseite "www.poppenhausen.de" angelegt wurde, wenden Sie sich bitte an die Gemeinde Poppenhausen. Nachfolgend finden Sie einen ersten Entwurf.</h6>
             <br>
+            <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+            <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+            <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_tsv_titel" :src="variable.pdf_bild_anzeige_tsv_src" :button_text="variable.pdf_bild_anzeige_tsv_button" :pdf="variable.pdf_bild_anzeige_tsv_pdf" v-if="variable.pdf_bild_anzeige_tsv_aktiv" id="pdfbildanzeige"/>
+            <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+            <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+            <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
             <div class="d-flex justify-content-center">
                 <h3>Wir freuen uns über rund 150 aktive Mitglieder in folgenden Gruppen:</h3>
             </div>
@@ -253,20 +259,26 @@
 
 <script>
 import TSVGruss from "../components/TSVGruss.vue";
+import PDFBildAnzeige from "../components/PDF_BildAnzeige.vue";
+
+import variables from "@/variables.js";
 
 export default {
   name: "TSV",
   data(){
     return{
+        variable: this.variables,
     };
   },
   components: {
     TSVGruss,
+    PDFBildAnzeige,
   },
   methods: {
 
   },
   created(){
+    this.variable = variables;
   }
 }
 </script>
