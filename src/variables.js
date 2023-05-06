@@ -51,16 +51,16 @@ aktuelles_card1_bild: "Aktuelles1.jpg",
 aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Neue TT-Platten",
-aktuelles_card2_unterueberschrift: "Unsere neuen DONIC TT-Platten sind da! Somit ist unser Ziel von 7 neuen TT-Platten erreicht!",
+aktuelles_card2_ueberschrift: "Kids Open am 13.05.2023 von 11-14 Uhr in der Werntalhalle",
+aktuelles_card2_unterueberschrift: "Bei diesem Tischtennisturnier spielen Kinder Jahrgang 2010 und jünger aus verschiedenen TT-Vereinen des TT-Bezirks Ufr.-Nord gegeneinander. ",
 aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: "Dafür ein herzliches Dankeschön an unsere TT-Freunde, Gönner und Riedel-Bau.",
+aktuelles_card2_text: " Für alle die gerne mal unsere TT-Kids bei einem Wettkampf bei Kaffee und Kuchen, Wiener im Brötchen, Belegten oder diversen Getränken zuschauen wollen! Die Tischtennisfreunde Poppenhausen freuen sich auf viele Besucher.",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
 aktuelles_card3_unterueberschrift: "1) Außerordentliche Mitgliederversammlung zur Neuwahl des 1. und 2. Vorstandes und 3. Vorstandes in der Funktion des Kassier am 19.05.2023 um 19 Uhr im Sportheim.",
 aktuelles_card3_bild: "Aktuelles3.jpg", 
-aktuelles_card3_text: "2) Die Veranstaltung -Kerle auf Kur- eine Komödie mit Ottinger & Rasssau am 25.03.2023 in Poppenhausen war ein umwerfender Erfolg. Der TSV freut sich über diese gelunge Veranstaltung mit einer nahezu ausverkauften Werntalalle. Durch diesen Erfolg ermutigt, ist eine weitere Komödie  mit Stephan Bauer -Vor der Ehe wollt ich ewig leben- am Samstag, den 25.11.2023 in der Werntalhalle Poppenhausen angesetzt worden. VVK: 0171/7927265",		
+aktuelles_card3_text: "2) Samstag, 25.11.2023 um 20 Uhr; Werntalhalle; Kabarett mit Stephan Bauauer; VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstallter TSV Popp GbR. ",		
 
 
 // Bilder:

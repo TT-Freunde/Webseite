@@ -69,7 +69,7 @@
         <br> <b>Aktualität der Datenschutzerklärung</b>
         <br> Die Datenschutzerklärung hat den Stand vom 01.08.2022 und kann jederzeit aktuellen Änderungen in der Rechtsprechung oder bei technischen Entwicklungen angepasst werden.
         <br>
-        <br> Weiterführende Informationen:
+        <br> <b>Weiterführende Informationen:</b>
         <br>
         <a href="https://www.bmj.de/DE/Themen/FokusThemen/DSGVO/DSVGO_node.html">Bundesministerium der Justiz: Datenschutz-Grundverordnung</a>
         <br>
