@@ -5,16 +5,16 @@
         <div class="col-12">
             <div class="cover-container">
                 <!-- START PANEL -->
-                <div v-if="bilder_bild1_aktiv" class="cover-item">
+                <div v-if="variable.bilder_bild1_aktiv" class="cover-item">
                     <img class="cover-image" :src="require(`@/assets/Bilder/${variable.bilder_bild1_source}`)">
                 </div>
-                <div v-if="bilder_bild2_aktiv"  class="cover-item">
+                <div v-if="variable.bilder_bild2_aktiv"  class="cover-item">
                     <img class="cover-image" :src="require(`@/assets/Bilder/${variable.bilder_bild2_source}`)">
                 </div>
-                <div v-if="bilder_bild3_aktiv" class="cover-item">
+                <div v-if="variable.bilder_bild3_aktiv" class="cover-item">
                     <img class="cover-image" :src="require(`@/assets/Bilder/${variable.bilder_bild3_source}`)">
                 </div>
-                <div v-if="bilder_bild4_aktiv" class="cover-item">
+                <div v-if="variable.bilder_bild4_aktiv" class="cover-item">
                     <img class="cover-image" :src="require(`@/assets/Bilder/${variable.bilder_bild4_source}`)">
                 </div>
             </div>

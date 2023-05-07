@@ -17,7 +17,7 @@
                 <h4 class="card-title">{{variable.aktuelles_card1_ueberschrift}}</h4>
                 <h6 class="card-subtitle text-muted">{{variable.aktuelles_card1_unterueberschrift}}</h6>
             </div>
-            <img :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card1_bild}`)" alt="Photo of sunset">
+            <img class="cardImage" @click="showFullImage(1)" :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card1_bild}`)" alt="Photo of sunset">
             <div class="card-body">
                 <p class="card-text">{{variable.aktuelles_card1_text}}</p>
             </div>
@@ -29,7 +29,7 @@
                 <h4 class="card-title">{{variable.aktuelles_card2_ueberschrift}}</h4>
                 <h6 class="card-subtitle text-muted">{{variable.aktuelles_card2_unterueberschrift}}</h6>
             </div>
-            <img :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card2_bild}`)" alt="Photo of sunset">
+            <img class="cardImage" @click="showFullImage(2)" :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card2_bild}`)" alt="Photo of sunset">
             <div class="card-body">
                 <p class="card-text">{{variable.aktuelles_card2_text}}</p>
             </div>
@@ -41,11 +41,16 @@
                 <h4 class="card-title">{{variable.aktuelles_card3_ueberschrift}}</h4>
                 <h6 class="card-subtitle text-muted">{{variable.aktuelles_card3_unterueberschrift}}</h6>
             </div>
-            <img :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card3_bild}`)" alt="Photo of sunset">
+            <img class="cardImage" @click="showFullImage(3)" :src="require(`@/assets/Bilder/Aktuelles/${variable.aktuelles_card3_bild}`)" alt="Photo of sunset">
             <div class="card-body">
                 <p class="card-text">{{variable.aktuelles_card3_text}}</p>
             </div>
         </div>
+    </div>
+
+    <div v-if="showModal" class="modal">
+        <span class="close" @click="hideFullImage">&times;</span>
+        <img :src="require(`@/assets/Bilder/Aktuelles/${imageSrc}`)" class="modal-content">
     </div>
 </div>
 </template>
@@ -58,14 +63,80 @@ export default {
   data(){
     return{
       variable: this.variables,
+      showModal: false,
+      imageSrc: "",
     };
   },
   components: {
   },
   methods: {
+    showFullImage(nummer) {
+        if(nummer == 1){
+            this.imageSrc = this.variable.aktuelles_card1_bild
+        } else if(nummer == 2){
+            this.imageSrc = this.variable.aktuelles_card2_bild
+        } else if(nummer == 3){
+            this.imageSrc = this.variable.aktuelles_card3_bild
+        }
+        this.showModal = true;
+    },
+    hideFullImage() {
+      this.showModal = false;
+    }
   },
   created(){
     this.variable = variables;
   }
 }
 </script>
+
+<style lang="scss">
+    .cardImage{
+        object-fit: cover !important;
+        object-position: center !important;
+        max-width: 100% !important;
+        max-height: 100% !important;
+    }
+
+    .cardImage:hover{
+        cursor: pointer !important;
+    }
+
+    .modal {
+        all: initial !important;
+        display: block !important;
+        position: fixed !important;
+        z-index: 1 !important;
+        padding-top: 100px !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        overflow: auto !important;
+        background-color: rgba(0, 0, 0, 0.9) !important;
+    }
+
+    .modal-content {
+        all: initial !important;
+        margin: auto !important;
+        display: block !important;
+        max-width: 80% !important;
+        max-height: 80% !important;
+    }
+
+    .close {
+        all: initial !important;
+        color: #fff !important;
+        float: right !important;
+        font-size: 28px !important;
+        font-weight: bold !important;
+        cursor: pointer !important;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #bbb !important;
+        text-decoration: none !important;
+        cursor: pointer !important;
+    }
+</style>
