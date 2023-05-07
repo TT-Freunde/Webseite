@@ -73,7 +73,7 @@ pdf_bild_anzeige_home_button: "Bild öffnen",
 
 
 // PDF_Bild-Anzeige TSV
-pdf_bild_anzeige_tsv_aktiv: false,
+pdf_bild_anzeige_tsv_aktiv: true,
 pdf_bild_anzeige_tsv_pdf: true,
 pdf_bild_anzeige_tsv_titel: "TSV-Satzung",
 pdf_bild_anzeige_tsv_src: "TSVSATZUNG.pdf",
