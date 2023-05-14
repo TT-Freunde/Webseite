@@ -17,7 +17,7 @@ motivation_text_ueberschrift: "Unsere „Motivation“",
 motivation_text_absatz1: "Tischtennis ist eine vielseitige Sportart für",
 motivation_text_absatz1_fett: "alle!",
 
-motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit und Wettkampf trainiert. Und natürlich macht dieser Sport noch eine Menge Spaß.",
+motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit, mentale Stärke und Wettkampf trainiert. Und natürlich macht dieser Sport noch eine Menge Spaß.",
 
 motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle.",
 
@@ -54,7 +54,7 @@ aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "Kids Open des TT-Bezirks Ufr.-Nord am 13.05.2023 in der Werntalhalle",
 aktuelles_card2_unterueberschrift: "Bei diesem Tischtennisturnier spielten 61 Kinder der Jahrgänge 2010 und jünger gegeneinander. Im Jahrgang 2013 konnte Mathis Lehmeyer den erfolgreichen 3. Platz (von 8 Teilnehmern) erreichen. Ebenso erreichte Elias Schmitt den 3. Platz (von 12 Teilnehmern). Unsere anderen Jungs und Mädels erkämpften sich i.d.R. Platzierungen in der vorderen Hälfte.",
 aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: "Die Tischtennisfreunde bedanken sich bei den Vereinen aus Burglauer, Hammelburg, Hergolshausen, Langendorf, Mellrichstadt, SC1900 SW, TG SW, Teilheim, Untereuerheim und Gänheim für ddie Teilnahme.",
+aktuelles_card2_text: "Unsere 10 Kids (Mädchen und Jungs) aus der Gemeinde Poppenhausen bedanken sich bei den Vereinen aus Burglauer, Hammelburg, Hergolshausen, Langendorf, Mellrichstadt, SC1900 SW, TG SW, Teilheim, Untereuerheim und Gänheim für die Teilnahme.",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
@@ -103,13 +103,13 @@ lernvideos_video1_aktiv: true,
 lernvideos_video1_source: "https://www.youtube-nocookie.com/embed/OKmWqc8ae_A", //Wichtig! -nocookie verwenden
 
 lernvideos_video2_aktiv: true,
-lernvideos_video2_source: "https://www.youtube-nocookie.com/embed/WmytaGgHF_4" , //Wichtig! -nocookie verwenden
+lernvideos_video2_source: "https://www.youtube-nocookie.com/embed/fIctD4igiIg" , //Wichtig! -nocookie verwenden
 
 lernvideos_video3_aktiv: true,
 lernvideos_video3_source: "https://www.youtube-nocookie.com/embed/PZBbbDV7uO8", //Wichtig! -nocookie verwenden
 
-lernvideos_video4_aktiv: false,
-lernvideos_video4_source: "",
+lernvideos_video4_aktiv: true,
+lernvideos_video4_source: "https://www.youtube-nocookie.com/embed/L50n1iscvOs",
 
 
 // Kontakt:
