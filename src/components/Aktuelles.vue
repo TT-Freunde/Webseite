@@ -1,7 +1,6 @@
 <template>
 <div>
     <h3>Aktuelles:</h3>
-    <h4>- TT-Mini-Meisterschaft mit ca. 30-40 Kids aus dem BTTV Bezirk-Nord am 13.05.2023 zwischen 11:00-14:00 Uhr in der Werntalhalle.</h4>
     <h4>- Aktuell finden Planungen statt, eine TT-Jugendmannschaft für die BTTV Herbstsaison 2023 zu melden.</h4>
     <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, welche/-r sich als Jugendtrainer/-in engagiert und unsere 8-12 Kinder/ Jugendliche auf das nächste Level hebt. Er wird unterstützt durch den TT-Spartenleiter und 2 Senioren aus der Erwachsengruppe.</h4>
     <h4>- Infos zum Vereinsrecht:</h4>

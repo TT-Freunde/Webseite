@@ -9,6 +9,7 @@
         <br>
         <p class="h4">{{variable.motivation_text_absatz2_1}}
           <br>
+          
           <br>{{variable.motivation_text_absatz2_2}}
         </p>
         <br>

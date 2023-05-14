@@ -51,10 +51,10 @@ aktuelles_card1_bild: "Aktuelles1.jpg",
 aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Kids Open am 13.05.2023 von 11-14 Uhr in der Werntalhalle",
-aktuelles_card2_unterueberschrift: "Bei diesem Tischtennisturnier spielen Kinder Jahrgang 2010 und jünger aus verschiedenen TT-Vereinen des TT-Bezirks Ufr.-Nord gegeneinander. ",
+aktuelles_card2_ueberschrift: "Kids Open des TT-Bezirks Ufr.-Nord am 13.05.2023 in der Werntalhalle",
+aktuelles_card2_unterueberschrift: "Bei diesem Tischtennisturnier spielten 61 Kinder der Jahrgänge 2010 und jünger gegeneinander. Im Jahrgang 2013 konnte Mathis Lehmeyer den erfolgreichen 3. Platz (von 8 Teilnehmern) erreichen. Ebenso erreichte Elias Schmitt den 3. Platz (von 12 Teilnehmern). Unsere anderen Jungs und Mädels erkämpften sich i.d.R. Platzierungen in der vorderen Hälfte.",
 aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: " Für alle die gerne mal unsere TT-Kids bei einem Wettkampf bei Kaffee und Kuchen, Wiener im Brötchen, Belegten oder diversen Getränken zuschauen wollen! Die Tischtennisfreunde Poppenhausen freuen sich auf viele Besucher.",
+aktuelles_card2_text: "Die Tischtennisfreunde bedanken sich bei den Vereinen aus Burglauer, Hammelburg, Hergolshausen, Langendorf, Mellrichstadt, SC1900 SW, TG SW, Teilheim, Untereuerheim und Gänheim für ddie Teilnahme.",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
@@ -64,7 +64,7 @@ aktuelles_card3_text: "2) Samstag, 25.11.2023 um 20 Uhr; Werntalhalle; Kabarett 
 
 
 
-// PDF_Bild-Anzeige Home
+// PDF_Bild-Anzeige Home (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
 pdf_bild_anzeige_home_aktiv: false,
 pdf_bild_anzeige_home_pdf: false,
 pdf_bild_anzeige_home_titel: "Banner",
@@ -72,7 +72,7 @@ pdf_bild_anzeige_home_src: "Bilder/TischtennisfreundeBanner.jpeg",
 pdf_bild_anzeige_home_button: "Bild öffnen",
 
 
-// PDF_Bild-Anzeige TSV
+// PDF_Bild-Anzeige TSV (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
 pdf_bild_anzeige_tsv_aktiv: true,
 pdf_bild_anzeige_tsv_pdf: true,
 pdf_bild_anzeige_tsv_titel: "TSV-Satzung",
@@ -80,20 +80,20 @@ pdf_bild_anzeige_tsv_src: "TSVSATZUNG.pdf",
 pdf_bild_anzeige_tsv_button: "PDF öffnen",
 
 
-// Bilder:
-bilder_aktiv: false,
+// Bilder ( Fehler: u.g.  Bilder fehlen noch ....):
+bilder_aktiv: true,
 
 bilder_bild1_aktiv: true,
-bilder_bild1_source: "BildTurnhalle.jpeg",
+bilder_bild1_source: "Open1.jpg",
 
 bilder_bild2_aktiv: true,
-bilder_bild2_source: "BildTurnhalle.jpeg",
+bilder_bild2_source: "Open2.jpg",
 
 bilder_bild3_aktiv: true,
-bilder_bild3_source: "BildTurnhalle.jpeg",
+bilder_bild3_source: "Open3.jpg",
 
 bilder_bild4_aktiv: true,
-bilder_bild4_source: "BildTurnhalle.jpeg",
+bilder_bild4_source: "Open4.jpg",
 
 
 // Lernvideos:
