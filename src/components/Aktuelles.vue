@@ -3,12 +3,6 @@
     <h3>Aktuelles:</h3>
     <h4>- Aktuell finden Planungen statt, eine TT-Jugendmannschaft für die BTTV Herbstsaison 2023 zu melden.</h4>
     <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, welche/-r sich als Jugendtrainer/-in engagiert und unsere 8-12 Kinder/ Jugendliche auf das nächste Level hebt. Er wird unterstützt durch den TT-Spartenleiter und 2 Senioren aus der Erwachsengruppe.</h4>
-    <h4>- Infos zum Vereinsrecht:</h4>
-    <a href="https://www.bmj.de/SharedDocs/Publikationen/DE/Leitfaden_Vereinsrecht.html">Bundesministerium der Justiz: Leitfaden Vereinsrecht</a>
-    <br>
-    <a href="https://auren.com/de/blog/verein-ohne-vorstand-wann-wird-das-fuer-den-verein-und-den-alt-vorstand-zum-problem/">Rechteberatung Auren: Verein ohne Vorstand</a>
-    <br>
-    <a href="https://www.gem-gruppe.de/newsarchiv-artikel/praxisfall-verein-ohne-vorstand">Rechteberatung gem-gruppe: Praxisfall Verein ohne Vorstand</a>
     <br>
     <div class="row">
         <div v-if="variable.aktuelles_card1_aktiv" class="card h-100 col-md-4">

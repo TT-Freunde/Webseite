@@ -4,7 +4,7 @@
         <div class="col-10">
             <br>
             <div class="d-flex justify-content-center">
-                <h1>TSV Poppenhausen 1910 e. V.</h1>
+                <h1>Turn- und Sportverein 1910 Poppenhausen e. V.</h1>
             </div>
             <div class="d-flex justify-content-center">
                 <img src="../assets/Bilder/TSVPoppenhausenLogo.jpeg">
@@ -13,12 +13,11 @@
                         <hr>
             <center>
             <h3>Aktuelles:</h3>
-            <h4>TSV Poppenhausen - Außerordentliche Mitgliederversammlung zur Neuwahl des 1. und 2. Vorstandes und 3. Vorstandes in der Funktion des Kassier am 19.05.2023 um 19 Uhr im Sportheim.</h4>
+            <h4>Ergebnis nach Neuwahlen: 1. Vorstand - Corinna Pabst, 2. Vorstand - Markus Pfülb, 3. Vorstand in der Funktion des Kassier - Andrea Helbig.</h4>
             </center>
             <hr>
             <br>
-            <h6> Die Homepage der Tischtennisfreunde-Poppenhausen unterliegt der DSGVO, daher müssen Veröffentlichungen mit dem Datenschutzbeauftragten des TSV, bzw. der TT-Freunde abgestimmt werden.</h6>
-            <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. befindet sich zur Zeit in der Überarbeitung. Vorschläge zur Gestaltung und Fragen bitte an die Mail-Adresse "tt-poppenhausen@outlook.de" senden. Bei Fragen zur bisherigen TSV Homepage http://www.tsv.poppenhausen.de, welche als Sub-Domäne der Webseite "www.poppenhausen.de" angelegt wurde, wenden Sie sich bitte an die Gemeinde Poppenhausen. Nachfolgend finden Sie einen ersten Entwurf.</h6>
+            <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. - welche unter einer eigenen WEB-Adresse erscheinen wird - befindet sich zur Zeit in der Überarbeitung. Bis dahin sind auf dieser interims Seite die Sparten des TSV und Kontakte gelistet.</h6>
             <br>
             <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
             <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
@@ -242,11 +241,28 @@
                 <div class="col-lg-3">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h4 class="card-title">Korbball (Kinder + Jugend + Frauen) </h4>
+                            <h4 class="card-title">Kinder + Jugend + Frauen </h4>
                         </div>
                         <img src="../assets/Bilder/Sportarten/Korbball.jpg" alt="Photo of sunset">
                         <div class="card-body">
                             <p class="card-text">In Kooperation mit der DJK Maibach, bzw. dem TSV Kützberg</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <hr>
+            <br>
+            <h3>Kinderturnen:</h3>
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h4 class="card-title">Kinder (Bild von Freepik) </h4>
+                        </div>
+                        <img src="../assets/Bilder/Sportarten/Kinderturnen.jpg" alt="Photo of sunset">
+                        <div class="card-body">
+                            <p class="card-text"> Kontakt: ? </p>
                         </div>
                     </div>
                 </div>

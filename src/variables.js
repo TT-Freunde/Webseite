@@ -58,7 +58,7 @@ aktuelles_card2_text: "Unsere 10 Kids (Mädchen und Jungs) aus der Gemeinde Popp
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
-aktuelles_card3_unterueberschrift: "1) Außerordentliche Mitgliederversammlung zur Neuwahl des 1. und 2. Vorstandes und 3. Vorstandes in der Funktion des Kassier am 19.05.2023 um 19 Uhr im Sportheim.",
+aktuelles_card3_unterueberschrift: "Die Neuwahlen der Vorstandschaft wurden erfolgreich abgeschlossen: 1. Vorstand - Corinna Pabst, 2. Vorstand - Markus Pfülb, 3. Vorstand in der Funktion des Kassier - Andrea Helbig.",
 aktuelles_card3_bild: "Aktuelles3.jpg", 
 aktuelles_card3_text: "2) Samstag, 25.11.2023 um 20 Uhr; Werntalhalle; Kabarett mit Stephan Bauauer; VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstallter TSV Popp GbR. ",		
 
