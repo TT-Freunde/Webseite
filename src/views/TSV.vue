@@ -13,7 +13,7 @@
                         <hr>
             <center>
             <h3>Aktuelles:</h3>
-            <h4>Ergebnis nach Neuwahlen: 1. Vorstand - Corinna Pabst, 2. Vorstand - Markus Pfülb, 3. Vorstand in der Funktion des Kassier - Andrea Helbig.</h4>
+            <h4>Ergebnis nach den Neuwahlen: 1. Vorstand - Corinna Pabst, 2. Vorstand - Markus Pfülb, 3. Vorstand in der Funktion des Kassier - Andrea Helbig.</h4>
             </center>
             <hr>
             <br>
@@ -57,7 +57,7 @@
             <br>
             <hr>
             <br>
-            <h3>Garde:</h3>
+            <h3> Faschingsgarde und Männerballett:</h3>
             <div class="row">
                 <div class="col-lg-3">
                     <div class="card h-100">
@@ -66,7 +66,7 @@
                         </div>
                         <img src="../assets/Bilder/Sportarten/Garde.jpg" alt="Photo of sunset">
                         <div class="card-body">
-                            <p class="card-text">Mädchen, bzw. junge Frauen</p>
+                            <p class="card-text">Kontakt: ?</p>
                         </div>
                     </div>
                 </div>
@@ -245,7 +245,7 @@
                         </div>
                         <img src="../assets/Bilder/Sportarten/Korbball.jpg" alt="Photo of sunset">
                         <div class="card-body">
-                            <p class="card-text">In Kooperation mit der DJK Maibach, bzw. dem TSV Kützberg</p>
+                            <p class="card-text">In Kooperation mit der DJK Maibach, bzw. dem TSV Kützberg; Kontakt: Caro Scheit, Poppenhausen</p>
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h3>Eine Auswahl an verschieden Lernvideos:</h3><br>
+    <h3>Eine Auswahl an verschiedenen Lernvideos:</h3><br>
     <h4> <a href="Https://www.br.de/br-fernsehen/sendungen/freizeit/themen/tisch-tennis-lernen-tipps-tricks-108.html">Bayrischer Rundfunk.de - Tischtennis lernen</a></h4><br>
     <br>Durch das Anklicken der YouTube-Lernvideos verlassen sie unsere Hompage und aktiveren automatisch die Webseite von YouTube.
     <br>Mit dem Aufruf haben sie auch automatisch der AGB von YouTube und deren Webseiten-Datenverarbeitung (incl. Cookies) zugestimmt.
