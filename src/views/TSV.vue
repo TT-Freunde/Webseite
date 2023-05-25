@@ -13,11 +13,11 @@
                         <hr>
             <center>
             <h3>Aktuelles:</h3>
-            <h4>Ergebnis nach den Neuwahlen: 1. Vorstand - Corinna Pabst, 2. Vorstand - Markus Pfülb, 3. Vorstand in der Funktion des Kassier - Andrea Helbig.</h4>
+            <h4>1. Vorstand: Corinna Pabst, 2. Vorstand: Markus Pfülb, 3. Vorstand in der Funktion des Kassier: Andrea Giehl.</h4>
             </center>
             <hr>
             <br>
-            <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. - welche unter einer eigenen WEB-Adresse erscheinen wird - befindet sich zur Zeit in der Überarbeitung. Bis dahin sind auf dieser interims Seite die Sparten des TSV und Kontakte gelistet.</h6>
+            <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. - welche unter einer eigenen WEB-Adresse erscheinen wird - befindet sich zur Zeit in der Überarbeitung. Bis dahin sind auf dieser interim Website die Sparten des TSV und Kontakte gelistet.</h6>
             <br>
             <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
             <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
