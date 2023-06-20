@@ -12,7 +12,7 @@
             <br>
                         <hr>
             <center>
-            <h3>Aktuelles:</h3>
+            <h3>Aktuelles vom 20.06.2023:</h3>
             <h4>1. Vorstand: Corinna Pabst, 2. Vorstand: Markus Pfülb, 3. Vorstand in der Funktion des Kassier: Andrea Giehl.</h4>
             </center>
             <hr>
@@ -26,7 +26,7 @@
             <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
             <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
             <div class="d-flex justify-content-center">
-                <h3>Wir freuen uns über rund 150 aktive Mitglieder in folgenden Gruppen:</h3>
+                <h3>Wir freuen uns über rund 150 aktive Mitglieder in folgenden Gruppen (Stand 20.06.2023):</h3>
             </div>
             <br>
             <h3>Gymnastik:</h3>
