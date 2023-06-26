@@ -1,8 +1,8 @@
 <template>
 <div>
-    <h3>Aktuelles vom 26.06.2023:</h3>
-    <h4>- Meldung der U19 3er Jugend-Mannschaft für die TT_Vorrunde 2023 mit 8 Spielern durch den BTTV bestätigt.</h4>
-    <h4>- Beim Kids Tunier in Langendorf spielten am 25.06.2023 folgende Kids (Platz): Elias (1.), Paul (2.), Jordan (4.), Leo G. (6.), Mathis L. (7.), Leo R. (7.). </h4>
+    <h3>Aktuelles vom 20.06.2023:</h3>
+    <h4>- 6 Spieler zum Kids Tunier Jahrgang 2011 und jünger in Langendorf am 25.06.2023 gemeldet.</h4>
+    <h4>- Anmeldung unserer TT-Jugendmannschaft U19 für die BTTV Herbstsaison 2023 erfolgt.</h4>
     <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, welche/-r sich als Jugendtrainer/-in engagiert und unsere 8-12 Kinder/ Jugendliche auf das nächste Level hebt. Er wird unterstützt durch den TT-Spartenleiter und 2 Senioren aus der Erwachsengruppe.</h4>
     <br>
     <div class="row">

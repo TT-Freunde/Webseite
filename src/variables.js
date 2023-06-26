@@ -21,7 +21,7 @@ motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzent
 
 motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle.",
 
-motivation_text_absatz3_1: "Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Die Jugendgruppe wird aktuell auf die kommende TT-Saison vorbereitet. Die Erwachsenen-Gruppe ist als Freizeitgruppe aufgestellt. Trainiert wird aktuell an 6-7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
+motivation_text_absatz3_1: "Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
 motivation_text_absatz4_1: "Besucht uns doch einfach mal beim Training. Ein herzliches Willkomen ist Euch garantiert und anfangs steht Euch auch ein Coach zur Verfügung.",
 
@@ -51,10 +51,10 @@ aktuelles_card1_bild: "Aktuelles1.jpg",
 aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten. Durch diesen Kontakt kann nun auch in die Planung von TT-Kleinturniere mit unseren Kids eingestiegen werden.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Kids Open des TT-Bezirks Ufr.-Nord am 26.06.2023 beim SV Langendorf",
-aktuelles_card2_unterueberschrift: "Tischtennisturnier der Jahrgänge 2011 und jünger. Auf dem Treppchen durften sich im Jahrgang 2012 Elias Schmitt und Paul Göbel platzieren. ",
+aktuelles_card2_ueberschrift: "Kids Open des TT-Bezirks Ufr.-Nord am 13.05.2023 in der Werntalhalle",
+aktuelles_card2_unterueberschrift: "Bei diesem Tischtennisturnier spielten 61 Kinder der Jahrgänge 2010 und jünger gegeneinander. Im Jahrgang 2013 konnte Mathis Lehmeyer den erfolgreichen 3. Platz (von 8 Teilnehmern) erreichen. Ebenso erreichte Elias Schmitt den 3. Platz (von 12 Teilnehmern). Unsere anderen Jungs und Mädels erkämpften sich i.d.R. Platzierungen in der vorderen Hälfte.",
 aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: "Unsere anderen 4 Jungs erkämpften sich ebenfalls beachtenswerte Platzierungen.",
+aktuelles_card2_text: "Unsere 10 Kids (Mädchen und Jungs) aus der Gemeinde Poppenhausen bedanken sich bei den Vereinen aus Burglauer, Hammelburg, Hergolshausen, Langendorf, Mellrichstadt, SC1900 SW, TG SW, Teilheim, Untereuerheim und Gänheim für die Teilnahme.",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
@@ -126,12 +126,6 @@ tsvGruss_aktiv: true,
 // Rückblick:
 rueckblick_aktiv: true,
 rueckblick_cards:[
-    {
-        ueberschrift: "Kids Open des TT-Bezirks Ufr.-Nord mit 61 Kinder der Jahrgänge 2010 in der Werntalhalle",
-        unterueberschrift: "13.05.2023 von 10:00 - 16:00 Uhr",
-        text: "Im Jahrgang 2013 konnte Mathis Lehmeyer den erfolgreichen 3. Platz (von 8 Teilnehmern) erreichen. Ebenso erreichte Elias Schmitt den 3. Platz (von 12 Teilnehmern).",
-        bild: "Rueckblick4.jpg"
-    },
     {
         ueberschrift: "Tag der offenen Tür in der Werntalhalle",
         unterueberschrift: "29.04.2023 von 14:00 - 16:00 Uhr",
