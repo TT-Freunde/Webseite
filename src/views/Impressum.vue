@@ -12,7 +12,7 @@
         <br><h5><b>Registergericht: Schweinfurt</b>
         <br>Registernummer: VR 237</h5>
         <br>
-        <br>Redakteur der TSV Web-Seiten:
+        <br>Redakteur der TSV- Tischtennis Web-Seite:
         <br>Alexander Ortloff
         <br>
         <br><h5><b>Haftung für Inhalte</b>

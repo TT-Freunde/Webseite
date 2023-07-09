@@ -6,7 +6,7 @@ navigations_titel: "TT-Freunde",
 
 
 // Startseite:
-startseite_ueberschrift: "Tischtennisfreunde Poppenhausen (BY)",
+startseite_ueberschrift: "Tischtennisfreunde Poppenhausen (Ufr)",
 startseiten_bild: "tt_banner_header_new.png",
 
 
@@ -19,11 +19,11 @@ motivation_text_absatz1_fett: "alle!",
 
 motivation_text_absatz2_1: "Bei diesem Sport werden Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit, mentale Stärke und Wettkampf trainiert. Und natürlich macht dieser Sport noch eine Menge Spaß.",
 
-motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle.",
+motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Trainiert und Gespielt wird aktuell an 6-7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz3_1: "Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Die zwei Gruppen sind aktuell als Freizeitgruppen aufgestellt. Trainiert wird aktuell an 6-7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
+motivation_text_absatz3_1: "Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Zwischen 17:00 Uhr und 18:30 Uhr trainiert unsere Jugendmannschaft. Ab ca. 18:30 Uhr bis ca. 20:00 trifft sich unsere Erwachsenen-Freizeitgruppe. Hier steht der Spaß und das Miteinander im Vordergrund.",
 
-motivation_text_absatz4_1: "Besucht uns doch einfach mal beim Training. Ein herzliches Willkomen ist Euch garantiert und anfangs steht Euch auch ein Coach zur Verfügung.",
+motivation_text_absatz4_1: "Besucht uns doch einfach mal beim Training oder in der Freizeitgruppe. Ein herzliches Willkomen ist Euch garantiert! Und anfangs steht Euch auch ein Coach zur Verfügung.",
 
 
 // Trainingszeiten:
@@ -148,7 +148,7 @@ rueckblick_cards:[
 
 
 // Ueber den TSV:
-ueberDenTSV_aktiv: true,
+ueberDenTSV_aktiv: false,
   
   
 }
