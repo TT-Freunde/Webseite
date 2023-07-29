@@ -1,9 +1,9 @@
 <template>
 <div>
-    <h3>Aktuelles vom 20.06.2023:</h3>
-    <h4>- 6 Spieler zum Kids Tunier Jahrgang 2011 und jünger in Langendorf am 25.06.2023 gemeldet.</h4>
-    <h4>- Anmeldung unserer TT-Jugendmannschaft U19 für die BTTV Herbstsaison 2023 erfolgt.</h4>
-    <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, welche/-r sich als Jugendtrainer/-in engagiert und unsere 8-12 Kinder/ Jugendliche auf das nächste Level hebt. Er wird unterstützt durch den TT-Spartenleiter und 2 Senioren aus der Erwachsengruppe.</h4>
+    <h3>Aktuelles vom 29.07.2023:</h3>
+    <h4>- Leider können wir unser TT-Training während der Sommerferien nicht in der Werntalhalle fortführen. Daher treffen wir uns wieder am 14.09.2023 zur gewohnten Zeit.</h4>
+    <h4>- Unsere neue U19 3er Jugend-Mannschaft spielt in der BKB Nordost gegen Burglauer, Bad Königshofen, Poppenlauer und Obbach. Erster Spieltag, Sa. 23.09.2023 10:00 Uhr in Bad Königshofen.</h4>
+    <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, der/die uns hilft unsere 8-12 Kinder/ Jugendliche auf das nächste Level zu heben. Er/ Sie wird unterstützt durch den TT-Spartenleiter und 1-2 Senioren aus der Erwachsengruppe.</h4>
     <br>
     <div class="row">
         <div v-if="variable.aktuelles_card1_aktiv" class="card h-100 col-md-4">
