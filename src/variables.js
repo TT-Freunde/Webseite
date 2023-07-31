@@ -128,9 +128,9 @@ rueckblick_aktiv: true,
 rueckblick_cards:[
     
     {
-        ueberschrift: "Kids Tunier Jahrgang 2011 und jünger in Langendorf",
-        unterueberschrift: "25.06.2023",
-        text: "Elias Schmitt und Leo Göbel teilten sich den 1. & 2. Platz",
+        ueberschrift: "Kids Open Tuniere in Langendorf und Schwanfeld",
+        unterueberschrift: "25.06.2023 & 16.07.2023",
+        text: "Elias Schmitt und Leo Göbel teilten sich den 1. & 2. Platz der Jahrgänge 2011-2012 in Langendorf. Max Preuske holte sich den 1. Platz im Jahrgang 2010 in Schwanfeld",
         bild: "RückblickTTLangendorf.jpg"
     },
     {
