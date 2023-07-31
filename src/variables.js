@@ -130,8 +130,8 @@ rueckblick_cards:[
     {
         ueberschrift: "Kids Tunier Jahrgang 2011 und jünger in Langendorf",
         unterueberschrift: "25.06.2023",
-        text: "",
-        bild: ""
+        text: "Elias Schmitt und Leo Göbel teilten sich den 1. & 2. Platz",
+        bild: "RückblickTTLangendorf.jpg"
     },
     {
         ueberschrift: "Kids Open des TT-Bezirks Ufr.-Nord in der Werntalhalle",

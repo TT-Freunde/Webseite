@@ -2,7 +2,7 @@
 <div>
     <h3>Aktuelles vom 29.07.2023:</h3>
     <h4>- Leider können wir unser TT-Training während der Sommerferien nicht in der Werntalhalle fortführen. Daher treffen wir uns wieder am 14.09.2023 zur gewohnten Zeit.</h4>
-    <h4>- Unsere neue U19 3er Jugend-Mannschaft spielt in der BKB Nordost gegen Burglauer, Bad Königshofen, Poppenlauer und Obbach. Erster Spieltag, Sa. 23.09.2023 10:00 Uhr in Bad Königshofen.</h4>
+    <h4>- Unsere neue U19 3er Jugend-Mannschaft spielt in der BKB Nordost gegen Burglauer, Bad Königshofen, Poppenlauer und Obbach. Erster Spieltag -aufgrund Terminverschiebung- ist Sa. 07.10.2023 10:00 Uhr in Bad Königshofen .</h4>
     <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, der/die uns hilft unsere 8-12 Kinder/ Jugendliche auf das nächste Level zu heben. Er/ Sie wird unterstützt durch den TT-Spartenleiter und 1-2 Senioren aus der Erwachsengruppe.</h4>
     <br>
     <div class="row">
