@@ -2,8 +2,9 @@
 <div>
     <h3>Aktuelles vom 29.07.2023:</h3>
     <h4>- Leider können wir unser TT-Training während der Sommerferien nicht in der Werntalhalle fortführen. Daher treffen wir uns wieder am 14.09.2023 zur gewohnten Zeit.</h4>
-    <h4>- Unsere neue U19 3er Jugend-Mannschaft spielt in der BKB Nordost gegen Burglauer, Bad Königshofen, Poppenlauer und Obbach. Erster Spieltag -aufgrund Terminverschiebung- ist Sa. 07.10.2023 10:00 Uhr in Bad Königshofen.</h4>
+    <h4>- Unsere neue U19 3-4er Jugend-Mannschaft spielt in der BKB Nordost gegen Burglauer, Bad Königshofen, Poppenlauer und Obbach. Erster Spieltag -aufgrund Terminverschiebung- ist Sa. 07.10.2023 10:00 Uhr in Bad Königshofen.</h4>
     <h4> <a href="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/"> Unser BTTV J19 Spielplan Ufr.-Nord </a> </h4>
+    <h4> <a href="https://www.bttv.de/news/data/2018/07/22/so-gehts-richtig-das-braunschweiger-system/"> Info für die Mannschaft zum Spielablauf gemäß dem Braunschweiger System </a> </h4>
     <h4>- Wir suchen einen guten TT-Spieler/-in mit BTTV-Spielbetrieb-Erfahrung, der/die uns hilft unsere 8-12 Kinder/ Jugendliche auf das nächste Level zu heben. Er/ Sie wird unterstützt durch den TT-Spartenleiter und 1-2 Senioren aus der Erwachsengruppe.</h4>
     <br>
     <div class="row">
