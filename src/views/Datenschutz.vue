@@ -7,7 +7,7 @@
         <br>
         <br>Verantwortlich im Sinne der Datenschutzgesetze: 
         <br>TSV Poppenhausen 1910 e.V.
-        <br>Kontakt zum Thema Datenschutz im Verein: Alexander Ortloff
+        <br>Kontakt für diese Webseite: Alexander Ortloff
         <br>Rudolf-Werner-Straße 1A
         <br>97490 Poppenhausen 
         <br>
