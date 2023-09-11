@@ -51,10 +51,10 @@ aktuelles_card1_bild: "Aktuelles1.jpg",
 aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Tischtennis-Werntal-Cup 2023; Samstag, 2. September in der Werntalhalle Poppenhausen",
-aktuelles_card2_unterueberschrift: "Eine Spielberechtigung des bayerischen Tischtennisverbands ist nicht erforderlich! Der 'Werntal-Cup' ist offen für die Jahrgänge 2009 und älter, der 'Werntal-Cup Junior' für die Jahrgänge 2005 und jünger. Jugendliche der Jahrgänge 2005-2009 sind bei beiden Turnieren startberechtigt. Die Jugendlichen beginnen um 10:00 Uhr, die Erwachsenen um 14:00 Uhr.",
-aktuelles_card2_bild: "Aktuelles4.jpg",
-aktuelles_card2_text: "Anmeldung per Mail an ' tischtennis@djk-gaenheim1928.de ' bis Donnerstag, 31.08.2023 mit Vorname, Name, Geburtsdatum, Verein, TTR-Wert (wenn bekannt), Telefonnummer. Eingeladen und zugelassen sind Spieler°innen, der Werntalvereine: DJK Gänheim, FC Arnstein, TSV Ettleben, TSV Werneck, FC Thüngen, SpVgg Stetten, DJK Burghausen (Schwebenried), SpVgg Adelsberg, VfL Niederwerrn, FC Geldersheim, SV Oberwerrn, TSV Poppenhausen und TSV Rannungen (Münnerstadt, und die befreundeten Vereine TG Veitshöchheim, TV Gerolzhofen, TSV Eßleben, SV Langendorf, DJK Hausen.",
+aktuelles_card2_ueberschrift: "Spielplan unserer Tischtennis Jugend",
+aktuelles_card2_unterueberschrift: "Jugend 19 Bezirksklasse B Herbst Gruppe 1 Nordost (Bayerischer TTV - Unterfranken-Nord)",
+aktuelles_card2_bild: "Aktuelles2.jpg",
+aktuelles_card2_text: "https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/ ",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
@@ -126,7 +126,13 @@ tsvGruss_aktiv: true,
 // Rückblick:
 rueckblick_aktiv: true,
 rueckblick_cards:[
-    
+   
+    {
+        ueberschrift: "Tischtennis-Werntal-Cup 2023 (Jugend & Erwachsene) in der Werntalhalle Poppenhausen ",
+        unterueberschrift: "Samstag, 2. September 2023",
+        text: "Die sportlich anspruchsvolle und zwanglos fröhliche Saisonvorbereitung kam bei den Teilnehmern sehr gut an und die zu erwartende Mund-zu-Mund-Propaganda sollte eine gute Grundlage für den nächsten Werntal-Cup sein. Der findet am 7. September 2024 statt. 10 Jugendliche bis 12 Jahre aus 4 Vereinen kämpften mit den kleinen schnellen Ball um die vorderen Plätze. Platz 1 belegte der SV Langendorf, Platz 2 & 3 die TT Freunde aus Poppenhausen mit Elias Schmitt und Max Preuske.",
+        bild: "Jugend_Werntalcup_2023.jpg"
+    },
     {
         ueberschrift: "Kids Open Tuniere in Langendorf und Schwanfeld",
         unterueberschrift: "25.06.2023 & 16.07.2023",
