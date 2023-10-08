@@ -127,9 +127,9 @@ tsvGruss_aktiv: true,
 rueckblick_aktiv: true,
 rueckblick_cards:[
     {
-        ueberschrift: "Erfolgreicher Auftakt in unsere unsere erste Jugend-19 BTTV Saison in der Bezirksklasse B Herbst Gruppe 1 Nordost (BTTV - Unterfranken-Nord) ",
+        ueberschrift: "Erfolgreicher Auftakt in unsere erste Saison in der Bezirksklasse B, Gruppe 1 Nordost Herbst 2023 (BTTV - Unterfranken-Nord, Jugend 19 (3er)) ",
         unterueberschrift: "05.10.2023",
-        text: "Unsere Jungs mussten- gemäß Braunschweiger System- an diesem Tag 2 Doppel- und 8 Einzel-Matches gegen den HV Burglauer IV bestreiten. Am Ende stand es 8:2 für Poppenhausen.",
+        text: "Unsere Jungs durften -gemäß Braunschweiger Spielsystem- an diesem Tag 2 Doppel- und 8 Einzel-Matches gegen den HV Burglauer IV bestreiten. Am Ende stand es 8:2 für Poppenhausen.",
         bild: "Spielstandam07102023.jpg"
     },
        {
