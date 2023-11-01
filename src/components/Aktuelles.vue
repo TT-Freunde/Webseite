@@ -1,10 +1,12 @@
 <template>
 <div>
-    <h3>Aktuelles vom 08.10.2023:</h3>
+    <h3>Aktuelles vom 01.11.2023:</h3>
     <h4>- Wir suchen eine(n) guten TT-Spieler/-in, der/die uns unterstützt unsere ca. 12 Kinder/ Jugendliche auf das nächste Level zu heben.</h4>
-    <h4>- Wir suchen auch Gönner und Sponsoren (gerne auch mit Platzierung auf dieser Web-Seite) für unsere Jugendmannschaft für die Anschaffung von Trikots und den einen oder anderen Karton TT-Bälle.</h4>
+    <h4>- Wir suchen aktuell einen Sponsor für eine neue Tischtennisplatte Marke Sponeta Profiline S 7-63 für ca. 650,-€. (Inclusive Spendenquittung und gerne auch mit Platzierung auf dieser Web-Seite)</h4>
     <h4>- Link zum Spielplan unserer Jugendmannschaft in 2023 <a href="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/"> BTTV J19 Spielplan Ufr.-Nord </a> </h4>
     <h4>- Link zu Informationen über den Spieltag-Ablauf gemäß <a href="https://www.bttv.de/news/data/2018/07/22/so-gehts-richtig-das-braunschweiger-system/"> Braunschweiger Spiel-System </a> </h4>
+    <h4>- Link zu Informationen über  <a href=" https://www.tischtennis.de/mein-sport/spielen/tischtennis-basics.html"> wichtige TT-Grundlagen </a> </h4>
+    <h4>- Link zu Informationen über Tuniere auf der Webseite des <a href="https://www.bttv.de/turniere/turnierkalender-1"> Bayrischen Tischtennis Verband - BTTV </a> </h4>
         <br>
     <div class="row">
         <div v-if="variable.aktuelles_card1_aktiv" class="card h-100 col-md-4">
