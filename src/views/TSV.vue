@@ -1,276 +1,57 @@
 <template>
-    <div class="row">
+   <div class="row">
         <div class="col-1"/>
-        <div class="col-10">
-            <br>
-            <div class="d-flex justify-content-center">
-                <h1>Turn- und Sportverein 1910 Poppenhausen e. V.</h1>
+            <div class="col-10">
+             <br>                
+             <br>
+             <hr>
+             <center>   
+                <h3>Tischtennis U19 Saisonplanung Januar - März 2024 im Bezirk Ufr.-Nord</h3>
+                <br>
+                <h5>Die Rückrunde der TT-Saison findet von Mitte Januar bis Ende März 2024 statt. </h5>
+                <h5> Für die Rückrund werden wir zwei Mannschaften melden, so dass unsere Kids häufiger zum Einsatz kommen. </h5>
+                <br>
+                <h5> Das bedeutet, jede Mannschaft hat wieder 4 Heimspiele und und 4 Auswärtsspiele.  </h5>
+                <h5> Die Heimspiele werden donnerstags um 17:30 Uhr angesetzt werden. Die Auswärtsspiele werden durch die Heimmannschaft festgelegt und können an den Tagen von Montag bis Samstag (ab 17:30 Uhr/ ab 10:00 Uhr) stattfinden. </h5>
+                <h5> Aktuell sind 11 Kids beim BTTV gemeldet und spielberechtigt. Wir gehen somit davon aus, dass ein Spieler auf max. 7 Einsätze in dieser Zeit kommt. </h5>
+                <h5> Da ein Spieltag mit 3 oder 4 Spieler bestritten wird, können wir auch Ausfälle recht gut kompensieren. </h5>
+                <br>
+                <h5> Wir planen aktuell mit folgender BTTV Mannschaft A: 1. Max, 2. Elias, 3. Milas, 4. Leo G., 5. Paul, 6. Leo R., 7. Samy, 8. Mathis, 9. Jaron, 10. Alexander, 11. Lukas  </h5>  
+                <br>
+                <h5> Alle Kids, welche nicht in der BTTV Mannschaft sind, bzw. im BTTV Tischtennis-Ranking auf etwa 800 TTR-Punkte kommen, können an den, 1x im Quartal stattfindenden, Kids-Open-Tunieren mitspielen.  </h5>          
+                <h5> Das "Neueinsteiger"-Team, bzw. Kids-Open-Team wird durch die TT-Betreuer von z. Zt. neu besetzt.  </h5> 
+                <h5> Das Ranking BTTV Spieler findet Ihr auf folgender myTischtennnis.de WEB-Seite. Die TTR Punkt können nur mit der Premium Mitgliedschaft myTischtennnis.de - Portal eingesehen werden. Kosten: 15,-€ im Jahr</h5>  
+                </center>
+                <hr>
+                <br>
+                 <br>
+                    <div class="row">
+                    <div class="col-1"/>
+                    <div class="col-10">
+                    <iframe id="spielplan" src="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/" title="BTTV Portal"></iframe>
+                    </div>
+                    <div class="col-1"/>
+                    </div>
+                    <br>
+                      <!--
+                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_tsv_titel" :src="variable.pdf_bild_anzeige_tsv_src" :button_text="variable.pdf_bild_anzeige_tsv_button" :pdf="variable.pdf_bild_anzeige_tsv_pdf" v-if="variable.pdf_bild_anzeige_tsv_aktiv" id="pdfbildanzeige"/>
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br>
+                    <div class="d-flex justify-content-center">
+                    <img src="../assets/Bilder/TSVPoppenhausenLogo.jpeg">
+                    </div>
+                -->
+                <br>              
             </div>
-            <div class="d-flex justify-content-center">
-                <img src="../assets/Bilder/TSVPoppenhausenLogo.jpeg">
-            </div>
-            <br>
-                        <hr>
-            <center>
-            <h3>Aktuelles vom 20.06.2023:</h3>
-            <h4>1. Vorstand: Corinna Pabst, 2. Vorstand: Markus Pfülb, 3. Vorstand in der Funktion des Kassier: Andrea Giehl.</h4>
-            </center>
-            <hr>
-            <br>
-            <h6> Die neue offizielle Webseite des TSV Poppenhausen 1910 e.V. - welche unter einer eigenen WEB-Adresse erscheinen wird - befindet sich zur Zeit in der Überarbeitung. Bis dahin sind auf dieser interim Website die Sparten des TSV und Kontakte gelistet.</h6>
-            <br>
-            <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-            <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-            <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_tsv_titel" :src="variable.pdf_bild_anzeige_tsv_src" :button_text="variable.pdf_bild_anzeige_tsv_button" :pdf="variable.pdf_bild_anzeige_tsv_pdf" v-if="variable.pdf_bild_anzeige_tsv_aktiv" id="pdfbildanzeige"/>
-            <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-            <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-            <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-            <div class="d-flex justify-content-center">
-                <h3>Wir freuen uns über rund 150 aktive Mitglieder in folgenden Gruppen (Stand 20.06.2023):</h3>
-            </div>
-            <br>
-            <h3>Gymnastik:</h3>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Männer/ Senioren 1 & 2 </h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/GymnastikMaenner.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Thomas Hohmann</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Frauen/ SeniorInnen 1 & 2 </h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/Gymnastik.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Anika Mahlmeister</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <hr>
-            <br>
-            <h3> Faschingsgarde und Männerballett:</h3>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Gruppe 1</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/Garde.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text">Kontakt: ?</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <hr>
-            <br>
-            <h3>Fußball:</h3>
-            <h5>TSV Poppenhausen Jugend:</h5>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">U7</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/TSVPoppenhausenFussball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Werner Bauer</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">U9</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/TSVPoppenhausenFussball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Sven Rückert, Marco Cekys</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">U11</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/TSVPoppenhausenFussball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Dieter Mahlmeister, Robert Bordas, Toni Lehmeyer</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <h5>JFG Werngrund (Zusammenschluss von Poppenhausen, Maibach, Kronungen, Oberwerrn, Niederwerrn):</h5>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">U13</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/JFGWerngrund.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">U15</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/JFGWerngrund.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Jürgen Zeissner, Ricky Müller</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">U19</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/JFGWerngrund.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Christian Schüllner</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-
-            <h5>SG Poppenhausen / Kronungen (Männer):</h5>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">1. Mannschaft</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/TSVPoppenhausenFussball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> <a target="_blank" href="https://www.facebook.com/TsvPoppenhausen">Facebook</a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">2. Mannschaft</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/TSVPoppenhausenFussball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> <a target="_blank" href="https://www.facebook.com/TsvPoppenhausen">Facebook</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <h5>TSV Poppenhausen (Männer):</h5>
-            <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Erwachsene ab 32</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/TSVPoppenhausenFussball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Dieter Mahlmeister</p>
-                        </div>
-                    </div>
-                </div>
-            <br>
-            <hr>
-            <br>
-            <h3>Tennis:</h3>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Männer</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/Tennis.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Ralf Haas</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <hr>
-            <br>
-            <h3>Tischtennis:</h3>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Kinder + Jugend</h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/ueber_TSV_table_tennis.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Lutz Urlau</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Jugend + Erwachsene </h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/ueber_TSV_table_tennis.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"><b>Kontakt:</b> Lutz Urlau</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <hr>
-            <br>
-            <h3>Korbball:</h3>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Kinder + Jugend + Frauen </h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/Korbball.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text">In Kooperation mit der DJK Maibach, bzw. dem TSV Kützberg; Kontakt: Caro Scheit, Poppenhausen</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <hr>
-            <br>
-            <h3>Kinderturnen:</h3>
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h4 class="card-title">Kinder (Bild von Freepik) </h4>
-                        </div>
-                        <img src="../assets/Bilder/Sportarten/Kinderturnen.jpg" alt="Photo of sunset">
-                        <div class="card-body">
-                            <p class="card-text"> Kontakt: ? </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="col-1"/>
-    </div>
+    </div> 
+    
     <TSVGruss/>
+    
 </template>
 
 <script>
@@ -300,4 +81,8 @@ export default {
 </script>
 
 <style lang="scss">
+#spielplan{
+        width: 100%;
+        height: 500px;
+    }
 </style>
