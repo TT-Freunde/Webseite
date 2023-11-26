@@ -75,8 +75,8 @@ pdf_bild_anzeige_home_button: "Bild öffnen",
 // PDF_Bild-Anzeige TSV (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
 pdf_bild_anzeige_tsv_aktiv: false,
 pdf_bild_anzeige_tsv_pdf: false,
-pdf_bild_anzeige_tsv_titel: "BTTV_UfrN_Terminplan_2024",
-pdf_bild_anzeige_tsv_src: "BTTV_UfrN_Terminplan_2024.pdf",
+pdf_bild_anzeige_tsv_titel: "UfrN_Terminplan_2024",
+pdf_bild_anzeige_tsv_src: "UfrN_Terminplan_2024.pdf",
 pdf_bild_anzeige_tsv_button: "PDF öffnen",
 
 
