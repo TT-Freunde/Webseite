@@ -20,11 +20,28 @@
                 </center>
                 <hr>
                 <br>
+                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_tsv_titel" :src="variable.pdf_bild_anzeige_tsv_src" :button_text="variable.pdf_bild_anzeige_tsv_button" :pdf="variable.pdf_bild_anzeige_tsv_pdf" v-if="variable.pdf_bild_anzeige_tsv_aktiv" id="pdfbildanzeige"/>
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                   <hr> 
+                <!-- 
                  <hr>
                     <div class="d-flex justify-content-center">
                     <img src="../assets/Bilder/Termine1.jpg">
                     </div>
                     <hr>
+                    <br>
+                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <PDFBildAnzeige titel="Titel" src="require(`@UfrN_Terminplan_2024.pdf`)" button_text="Button Text" :pdf="true"/>
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
+                    <br>
+                 -->
                 <br>
                     <div class="row">
                     <div class="col-1"/>
@@ -34,16 +51,7 @@
                     <div class="col-1"/>
                     </div>
                     <br>
-                     <!-- 
-                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-                    <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_tsv_titel" :src="variable.pdf_bild_anzeige_tsv_src" :button_text="variable.pdf_bild_anzeige_tsv_button" :pdf="variable.pdf_bild_anzeige_tsv_pdf" v-if="variable.pdf_bild_anzeige_tsv_aktiv" id="pdfbildanzeige"/>
-                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-                    <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-                    <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
-                    -->
-                    <br>
-                     <br>              
+                    <br>                               
             </div>
         <div class="col-1"/>
     </div> 
