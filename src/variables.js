@@ -45,10 +45,10 @@ trainingszeiten_bild: "BildTurnhalle.jpeg",
 aktuelles_aktiv: true,
 
 aktuelles_card1_aktiv: true,
-aktuelles_card1_ueberschrift: "Großer Dank",
-aktuelles_card1_unterueberschrift: "Großer Dank an Stefan (TT Bezirkswart) von der DJK Gänheim",
-aktuelles_card1_bild: "Aktuelles1.jpg",
-aktuelles_card1_text: "Stefan unterstützt uns das Training für die Jugend aufzubauen und zu gestalten.",
+aktuelles_card1_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
+aktuelles_card1_unterueberschrift: "Kabarett mit Michl Müller in der Werntalhalle am Sonntag, 25.02.2024 um 18 Uhr.",
+aktuelles_card1_bild: "AktuellesMueller1.jpg",
+aktuelles_card1_text: "VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstalter TSV Popp GbR.",
 
 aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "Spielplan unserer Tischtennis Jugend",
@@ -58,10 +58,9 @@ aktuelles_card2_text: "(siehe o.g. Web-Link unter 'Aktuelles': Unser BTTV J19 Sp
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
-aktuelles_card3_unterueberschrift: "Kabarett mit Stephan Bauer in der Werntalhalle am Samstag, 25.11.2023 um 20 Uhr. ",
-aktuelles_card3_bild: "Aktuelles3.jpg", 
-aktuelles_card3_text: "VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstalter TSV Popp GbR. ",		
-
+aktuelles_card3_unterueberschrift: "Poppenhäuser Weihnacht am Samstag, 02.12.2023 ab 14 Uhr. ",
+aktuelles_card3_bild: "PH_Weihnacht.jpg", 
+aktuelles_card3_text: "Veranstalter: TSV Poppenhausen",
 
 
 // PDF_Bild-Anzeige Home (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
