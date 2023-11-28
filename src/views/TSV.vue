@@ -2,9 +2,23 @@
    <div class="row">
         <div class="col-1"/>
             <div class="col-10">
-             <br>                
              <br>
              <hr>
+                         <h3> Termine in 2024</h3>                   
+             <br>
+             <h5> - So, 4. Feb. 10:00 BezRLT (24-25) Jugend 19-15-13 Unterfranken-Nord Marienbachzentrum Dittelbrunn </h5>
+             <h5> - 08.-10.03.2023 Mini/ Kids Open Turniere im Bezirk Nord, Mitte, Süd</h5>
+             <h5> - Sa, 13. Apr. 10:00 Bezirksentscheid Minis Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
+             <h5> - Sa, 13. Apr. 10:00 Bezirksentscheid Minis Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
+             <h5> - So, 14. Apr. 10:00 BezRLT (24-25) Jugend 15-11 Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
+             <h5> - Fr, 19. Apr. 18:30 Bezirksjugendforum Jugendleiter und Trainerinnen Unterfranken-Nord TSV-Sportheim Poppenhausen</h5>
+             <h5> - Sa/So, 04/05. Mai, TT-Co-Trainerausbildung in Würzburg</h5>
+             <h5> - Sa, 11. Mai. 11:00 BKO (Bezirk-Kids-Open) Jg. 2011 und jünger o. TTR bis 800 Unterfranken-Nord Schulturnhalle Schwanfeld</h5>
+             <h5> - So, 14. Jul. 11:00 BKO (Bezirk-Kids-Open) Jg. 2011 und jünger o. TTR bis 800 Unterfranken-Nord Hugo-von-Trimberg-Halle Ndw. </h5>
+             <h5> - Herbst 2024, BKO (Bezirk-Kids-Open) Jg. 2011 und jünger o. TTR bis 800 Unterfranken-Nord, Poppenhausen</h5>
+            <hr>
+            
+            <br>
              <center>   
                 <h3> Planung der Tischtennis-Rückrunde von Januar - Ende März 2024</h3>
                 <br>
@@ -17,12 +31,14 @@
                 <h5>Alle Kids, welche nicht in der BTTV Mannschaft sind, bzw. im BTTV-Tischtennis-Ranking auf etwa 800 TTR-Punkte kommen, können an den Kids-Open-Turnieren (Turniere für TT-Einsteiger) teilnehmen. Diese finden in der Regel 1x im Quartal statt.</h5>
                 <br>
                 <h5>Die  Mannschaft, das "Neueinsteiger"-Team, bzw. das Kids-Open-Team wird durch die TT-Coaches von Zeit zur Zeit neu besetzt.</h5>
-                </center>
+                          </center>
                 <hr>
                 <br>
                     <div class="row">
                     <div class="col-1"/>
                     <div class="col-10">
+                       <h3> Alle Termine des TT-Bezirks Ufr Nord in 2024</h3>  
+                        <br> 
                     <iframe id="spielplan" src="https://www.bttv.de/fileadmin/bttv/media/b02/Termine/BTTV-UfrN__I__231101_-ST__Terminplan_.pdf" title="BTTV Portal- Bezirk Ufr Nord"></iframe>
                     </div>
                     <div class="col-1"/>
@@ -55,6 +71,8 @@
                     <div class="row">
                     <div class="col-1"/>
                     <div class="col-10">
+                      <h3> Spielplan und Tabelle der TT-Jugendmannschaften des TSV Poppenhausen </h3>
+                      <br>
                     <iframe id="spielplan" src="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/" title="BTTV Portal"></iframe>
                     </div>
                     <div class="col-1"/>
