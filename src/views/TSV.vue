@@ -20,6 +20,15 @@
                 </center>
                 <hr>
                 <br>
+                    <div class="row">
+                    <div class="col-1"/>
+                    <div class="col-10">
+                    <iframe id="spielplan" src="https://www.bttv.de/fileadmin/bttv/media/b02/Termine/BTTV-UfrN__I__231101_-ST__Terminplan_.pdf" title="BTTV Portal- Bezirk Ufr Nord"></iframe>
+                    </div>
+                    <div class="col-1"/>
+                    </div>
+                    <br>
+                    <!--
                     <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
                     <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
                     <PDFBildAnzeige :titel="variable.pdf_bild_anzeige_tsv_titel" :src="variable.pdf_bild_anzeige_tsv_src" :button_text="variable.pdf_bild_anzeige_tsv_button" :pdf="variable.pdf_bild_anzeige_tsv_pdf" v-if="variable.pdf_bild_anzeige_tsv_aktiv" id="pdfbildanzeige"/>
@@ -27,8 +36,8 @@
                     <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
                     <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
                    <hr> 
-                <!-- 
-                 <hr>
+                <br>
+                    <hr>
                     <div class="d-flex justify-content-center">
                     <img src="../assets/Bilder/Termine1.jpg">
                     </div>
@@ -51,8 +60,7 @@
                     <div class="col-1"/>
                     </div>
                     <br>
-                    <br>                               
-            </div>
+                </div>
         <div class="col-1"/>
     </div> 
     
@@ -88,7 +96,7 @@ export default {
 
 <style lang="scss">
 #spielplan{
-        width: 100%;
-        height: 500px;
+        width: 110%;
+        height: 550px;
     }
 </style>
