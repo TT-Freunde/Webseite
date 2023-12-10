@@ -6,7 +6,7 @@
     </center>
     <br>
     <br>
-    <p style="font-size:30px;color:blue;">Aktuelles vom 27.11.2023:</p>
+    <p style="font-size:30px;color:blue;">Aktuelles vom 10.12.2023:</p>
     <h4>- Wir suchen eine(n) guten TT-Spieler/-in, der/die uns unterstützt unsere ca. 12 Kinder/ Jugendliche auf das nächste Level zu heben.</h4>
     <h4>- Link zum Spielplan unserer Jugendmannschaft in 2023 <a href="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/"> BTTV J19 Spielplan Ufr.-Nord </a> </h4>
     <h4>- Link zu Informationen über den Spieltag-Ablauf gemäß <a href="https://www.bttv.de/news/data/2018/07/22/so-gehts-richtig-das-braunschweiger-system/"> Braunschweiger Spiel-System </a> </h4>

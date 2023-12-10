@@ -57,10 +57,10 @@ aktuelles_card2_bild: "Aktuelles2.jpg",
 aktuelles_card2_text: "(siehe o.g. Web-Link unter 'Aktuelles': Unser BTTV J19 Spielplan Ufr.-Nord)",
 
 aktuelles_card3_aktiv: true,
-aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
-aktuelles_card3_unterueberschrift: "Poppenhäuser Weihnacht am Samstag, 02.12.2023 ab 14 Uhr. ",
-aktuelles_card3_bild: "PH_Weihnacht.jpg", 
-aktuelles_card3_text: "Veranstalter: TSV Poppenhausen",
+aktuelles_card3_ueberschrift: "TT-Bundesliga-Feeling in Bad Königshofen:",
+aktuelles_card3_unterueberschrift: "Besuch des TTBL Match TSV Bad Königshofen gegen TTC Schwalbe Bergneustadt. ",
+aktuelles_card3_bild: "TTBL B Königshofen 25112023.jpg", 
+aktuelles_card3_text: "Am 25.11.2023 besuchte die TT-Sparte des TSV Poppenhausen mit 15 Kids und 11 Erwachsenen das TT-Bundesligaspiel des TSV Bad Königshofen. Einer der Höhepunkte war das Einlaufen unserer Kids vor dem Match mit den TTBL-Spielern vor 619 Zuschauern. Fazinierend waren aber auch die rasenden Ballwechsel und, dass der TSV eine 10:4 Führung in einem Satz noch abgeben musste. Siehe auch:  https://www.tsvbadkoenigshofen-tischtennis.de/?p=10920 ",
 
 
 // PDF_Bild-Anzeige Home (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
