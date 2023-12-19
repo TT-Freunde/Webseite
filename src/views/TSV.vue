@@ -34,6 +34,17 @@
                           </center>
                 <hr>
                 <br>
+                <h3> Alle Termine im TT-Bezirks Ufr Nord des Bayrischer Tischtennis Verband in 2024</h3>
+                <h5><a href="https://www.bttv.de/fileadmin/bttv/media/b02/Termine/BTTV-UfrN__I__231101_-ST__Terminplan_.pdf" target=”_blank”> Siehe BTTV Portal - Bezirk Ufr Nord </a></h5>
+                <br>
+                <h3> Informationen über Bezirk übergreifende TT-Tuniere des Bayrischer Tischtennis Verband</h3>
+                <h5><a href="https://www.bttv.de/turniere/turnierkalender-1" target=”_blank”> Siehe BTTV Portal - Turnierkalender  </a></h5>
+                <br>
+                <hr>
+                <br>
+                
+                
+                <!--
                     <div class="row">
                     <div class="col-1"/>
                     <div class="col-10">
@@ -44,6 +55,7 @@
                     <div class="col-1"/>
                     </div>
                     <br>
+                    -->
                     <!--
                     <hr v-if="variable.pdf_bild_anzeige_tsv_aktiv">
                     <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">

@@ -23,7 +23,7 @@ motivation_text_absatz2_2: "Daher treffen wir uns in gemischten Gruppen immer do
 
 motivation_text_absatz3_1: "Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Zwischen 17:00 Uhr und 18:30 Uhr trainiert unsere Jugendmannschaft. Ab ca. 18:30 Uhr bis ca. 20:00 trifft sich unsere Erwachsenen-Freizeitgruppe. Hier steht der Spaß und das Miteinander im Vordergrund.",
 
-motivation_text_absatz4_1: "Besucht uns doch einfach mal beim Training oder in der Freizeitgruppe. Ein herzliches Willkomen und ein Platz am TT-Tisch ist Euch garantiert! Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. TT-Ball toppst ca. 10x hintereinander auf den geführten TT-Schläger. Abwechselnd Vor-und Rückhand).",
+motivation_text_absatz4_1: "Besucht uns doch einfach mal beim Training oder in der Freizeitgruppe. Ein herzliches Willkomen und ein Platz am TT-Tisch ist Euch garantiert! Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. TT-Ball toppst ca. 5x hintereinander auf den geführten TT-Schläger. Abwechselnd Vor-und Rückhand).",
 
 
 // Trainingszeiten:
@@ -51,10 +51,10 @@ aktuelles_card1_bild: "AktuellesMueller1.jpg",
 aktuelles_card1_text: "VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstalter TSV Popp GbR.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Spielplan unserer Tischtennis Jugend",
-aktuelles_card2_unterueberschrift: "Jugend 19 Bezirksklasse B Herbst Gruppe 1 Nordost (Bayerischer TTV - Unterfranken-Nord)",
+aktuelles_card2_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
+aktuelles_card2_unterueberschrift: "Jugend-Fußballturnier in der Werntalhalle vom 19.-21.01.2024",
 aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: "(siehe o.g. Web-Link unter 'Aktuelles': Unser BTTV J19 Spielplan Ufr.-Nord)",
+aktuelles_card2_text: "",
 
 aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "TT-Bundesliga-Feeling in Bad Königshofen:",

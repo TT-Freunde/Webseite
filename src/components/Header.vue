@@ -45,7 +45,7 @@
                             <a class="nav-link text-dark btn" href="/rueckblick"><b>Rückblick</b></a>
                         </li>
                         <li v-if="variable.ueberDenTSV_aktiv" class="nav-item">
-                            <a class="nav-link text-dark btn" href="/tsv"><b>Allgemeines</b></a>
+                            <a class="nav-link text-dark btn" href="/tsv"><b>Termine</b></a>
                         </li>
                     </ul>
                 </div>
