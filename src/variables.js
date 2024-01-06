@@ -29,14 +29,14 @@ motivation_text_absatz4_1: "Besucht uns doch einfach mal beim Training oder in d
 // Trainingszeiten:
 trainingszeiten_aktiv: true,
 
-trainingszeiten_ueberschrift: "Trainingszeiten 2023",
-trainingszeiten_unterueberschrift: "(außer Schulferien)",
+trainingszeiten_ueberschrift: "Trainingszeiten 2024",
+trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
-trainingszeiten_absatz1_ueberschrift: "Kinder bis ca. 16 (gemischt):",
+trainingszeiten_absatz1_ueberschrift: "Kinder bis ca. 16 Jahren (gemischt):",
 trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr in der Werntalhalle in 97490 Poppenhausen",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend & Erwachsene (gemischt):",
-trainingszeiten_absatz2_text: "Donnerstag von 18:30 - 20:00 Uhr in der Werntalhalle in 97490 Poppenhausen",
+trainingszeiten_absatz2_text: "Donnerstag von 18:30 - ca. 20:00 Uhr in der Werntalhalle in 97490 Poppenhausen (Gelegentlich zwischen Januar und März 2024 auch erst ab 19:00 Uhr wegen TT-Jugendspieltag)",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
@@ -57,10 +57,10 @@ aktuelles_card2_bild: "Aktuelles2.jpg",
 aktuelles_card2_text: "",
 
 aktuelles_card3_aktiv: true,
-aktuelles_card3_ueberschrift: "TT-Bundesliga-Feeling in Bad Königshofen:",
-aktuelles_card3_unterueberschrift: "Besuch des TTBL Match TSV Bad Königshofen gegen TTC Schwalbe Bergneustadt. ",
-aktuelles_card3_bild: "TTBL B Königshofen 25112023.jpg", 
-aktuelles_card3_text: "Am 25.11.2023 besuchte die TT-Sparte des TSV Poppenhausen mit 15 Kids und 11 Erwachsenen das TT-Bundesligaspiel des TSV Bad Königshofen. Einer der Höhepunkte war das Einlaufen unserer Kids vor dem Match mit den TTBL-Spielern vor 619 Zuschauern. Fazinierend waren aber auch die rasenden Ballwechsel und, dass der TSV eine 10:4 Führung in einem Satz noch abgeben musste. Siehe auch:  https://www.tsvbadkoenigshofen-tischtennis.de/?p=10920 ",
+aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
+aktuelles_card3_unterueberschrift: "Wieder neu aufgelegt: Unser legendäres TSV Fachings-Event in der Werntalhalle am 03.02.2024 ab 19:00 Uhr ",
+aktuelles_card3_bild: "Fasching2.jpg", 
+aktuelles_card3_text: "mit LIVE-Musik von High-Five, unserer Garde Werntalfunken und dem Männerbalett",
 
 
 // PDF_Bild-Anzeige Home (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
@@ -125,6 +125,13 @@ tsvGruss_aktiv: true,
 // Rückblick:
 rueckblick_aktiv: true,
 rueckblick_cards:[
+    {
+        ueberschrift: "TT-Bundesliga-Feeling in Bad Königshofen.",
+        unterueberschrift: "25.11.2023",
+        text: "Besuch mit 15 Kids und 11 Erwachsenen des TTBL Match TSV Bad Königshofen gegen TTC Schwalbe Bergneustadt. Einer der Höhepunkte war das Einlaufen unserer Kids vor dem Match mit den TTBL-Spielern vor 619 Zuschauern.",
+        bild: "TTBLKönigshofen 25112023.jpg"
+    },
+
     {
         ueberschrift: "Erfolgreicher Auftakt in unsere erste Saison in der Bezirksklasse B, Gruppe 1 Nordost Herbst 2023 (BTTV - Unterfranken-Nord, Jugend 19 (3er)) ",
         unterueberschrift: "05.10.2023",

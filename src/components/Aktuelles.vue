@@ -7,9 +7,10 @@
     <hr>
     <br>
     <br>
-    <p style="font-size:30px;color:blue;">Aktuelles vom 19.12.2023:</p>
-    <h4>- Wir suchen eine(n) guten TT-Spieler/-in, der/die uns unterstützt unsere ca. 12 Kinder/ Jugendliche auf das nächste Level zu heben.</h4>
-    <h4>- Link zum Spielplan unserer Jugendmannschaft in 2023 <a href="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/" target=”_blank”> BTTV J19 Spielplan Ufr.-Nord </a> </h4>
+    <p style="font-size:30px;color:blue;">Aktuelles vom 06.01.2024:</p>
+    <h4>- Wir suchen eine(n) guten TT-Spieler/-in, der/die uns unterstützt unsere ca. 14 Kinder/ Jugendliche auf das nächste Level zu heben.</h4>
+    <h4>- Link zum Spielplan unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-B-Winter-Gruppe-1-Nord/gruppe/461779/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>
+    <h4>- Link zum Spielplan unserer 2. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-C-Winter-Gruppe-1-West/gruppe/462562/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-C-Winter-Gruppe-1-West </a> </h4>
     <h4>- Link zu Informationen über den Spieltag-Ablauf gemäß <a href="https://www.bttv.de/news/data/2018/07/22/so-gehts-richtig-das-braunschweiger-system/" target=”_blank”> Braunschweiger Spiel-System </a> </h4>
     <h4>- Link zu Informationen über  <a href=" https://www.tischtennis.de/mein-sport/spielen/tischtennis-basics.html" target=”_blank”> wichtige TT-Grundlagen </a> </h4>
     <br>

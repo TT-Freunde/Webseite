@@ -4,8 +4,8 @@
         <div class="col-10">
             <div class="row d-flex">
                 <div class="col-lg-6 align-self-center">
-                    <h3>{{variable.trainingszeiten_ueberschrift}}</h3>
-                    <h3>{{variable.trainingszeiten_unterueberschrift}}</h3>
+                    <h3><b>{{variable.trainingszeiten_ueberschrift}}</b></h3>
+                    <h4>{{variable.trainingszeiten_unterueberschrift}}</h4>
                     <br>
                     <h4><b>{{variable.trainingszeiten_absatz1_ueberschrift}}</b></h4>
                     <h4>{{variable.trainingszeiten_absatz1_text}}</h4>
