@@ -5,18 +5,18 @@
              <br>
              <hr>
               <center>   
-                <h3>Start der Tischtennis-Rückrunde ab 11. Januar 2024 (bis etwa Anfang April 2024)</h3>
+                <h3>Start der Tischtennis-Winter-Rückrunde ab 11. Januar 2024 (bis etwa 14. April 2024)</h3>
                 <br>
                 <h5>Die Aufteilung der Spieler in die 1. und 2. Mannschaft eines Vereins erfolgt auf Basis des quartalsmäßig erhobenen TT-Rating-Wert (kurz QTTR) jedes Spielers.</h5>
                 <br>
                 </center>
                 <h5>TSV Poppenhausen I: Max, Elias, + i.d.R. 2 Spieler aus der 2. Mannschaft</h5> 
                 <h5>Link zum Spielplan unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-B-Winter-Gruppe-1-Nord/gruppe/461779/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h5>
-               
+               <br>
                 <h5>TSV Poppenhausen II: Milas, Samy, Jaron, Paul G., Leo G., Leo R., Mathis, Lukas, Vitali, Alex.</h5> 
                 <h5>Link zum Spielplan unserer 2. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-C-Winter-Gruppe-1-West/gruppe/462562/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-C-Winter-Gruppe-1-West </a> </h5>
                 <br>
-                <h5>Jeder Spieler der 2. Mannschaft darf in der 1. Mannschaft eingesetzt werden (Aufgrund des TT-Ratings, bzw. QTTR)!</h5>
+                <h5>Jeder Spieler der 2. Mannschaft darf in der 1. Mannschaft eingesetzt werden</h5>
                 <h5> <a href="https://de.wikipedia.org/wiki/Tischtennis-Rating" target=”_blank”> Was ist der QTTR Wert? (Siehe Wikipedia) </a></h5>
                 <br>
                 <h5>Alle Kids, welche nicht in der BTTV Mannschaft sind, bzw. im BTTV-Tischtennis-Ranking auf etwa 800 TTR-Punkte kommen, können an den Bezirks-Kids-Open (kurz BKO, bzw. Turniere für TT-Einsteiger) teilnehmen. Diese finden in der Regel 1x im Quartal statt.</h5>
