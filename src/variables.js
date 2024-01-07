@@ -114,7 +114,7 @@ lernvideos_video4_source: "https://www.youtube-nocookie.com/embed/L50n1iscvOs",
 // Kontakt:
 kontakt_aktiv: true,
 
-kontakt_name: "Lutz Urlau (& Alexander Ortloff)",
+kontakt_name: "Lutz Urlau & Alexander Ortloff",
 kontakt_tel: "015123260710",
 kontakt_mail: "tt.poppenhausen@outlook.de",
 

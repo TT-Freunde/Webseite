@@ -2,7 +2,7 @@
 <div>
     <center>
     <p style="font-size:35px;color:green;"> Spendenmarathon für eine neue TT-Platte: Ziel 650,-€ / bisher gespendet 235,-€ </p>
-    <h4>Wir suchen aktuell Sponsoren und Gönner für eine neue Tischtennisplatte Marke Sponeta Profiline S 7-63. (Inclusive Spendenquittung und gerne auch mit Platzierung auf dieser Web-Seite. Kontakt Alexander Ortloff: 0170 476 2722)</h4>
+    <h4>Wir suchen aktuell Sponsoren und Gönner für eine neue Tischtennisplatte Marke Sponeta Profiline S 7-63. (Inclusive Spendenquittung und gerne auch mit Platzierung auf dieser Web-Seite. Kontakt: Alexander Ortloff, Tel. 0170 476 2722</h4>
     </center>
     <hr>
     <br>
