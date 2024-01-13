@@ -23,7 +23,7 @@ motivation_text_absatz2_2: "Aktuell haben wir uns in eine Jugend- und Erwachsene
 
 motivation_text_absatz3_1: "Besucht uns doch einfach mal beim Jugend-Training oder in der Freizeitgruppe. Ein herzliches Willkomen und ein Platz am TT-Tisch ist Euch garantiert!",
 
-motivation_text_absatz4_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. Der Ball wird auf dem Schläger ca. 5x nach oben getippt. Abwechselnd Vor-und Rückhand).",
+motivation_text_absatz4_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).",
 
 
 // Trainingszeiten:

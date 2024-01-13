@@ -1,14 +1,14 @@
 <template>
 <div>
     <center>
-    <p style="font-size:35px;color:green;"> Spendenmarathon für eine neue TT-Platte: Ziel 650,-€ / bisher gespendet 235,-€ </p>
+    <p style="font-size:35px;color:green;"> Spendenmarathon für eine neue TT-Platte: Ziel 650,-€ / bisher gespendet 335,-€ </p>
     <h4>Wir suchen aktuell Sponsoren und Gönner für eine neue Tischtennisplatte Marke Sponeta Profiline S 7-63. (Inclusive Spendenquittung und gerne auch mit Platzierung auf dieser Web-Seite. Kontakt: Alexander Ortloff, Tel. 0170 476 2722</h4>
     </center>
     <hr>
     <br>
     <br>
     <p style="font-size:30px;color:blue;"> Aktuelles vom 06.01.2024:</p>
-    <h4>- Wir suchen eine(n) guten TT-Spieler/-in, die/ der uns unterstützt unsere ca. 14 Kinder/ Jugendliche auf das nächste Level zu heben.</h4>
+    <h4>- Wir suchen eine(n) guten TT-Spieler/-in, die/ der uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern.</h4>
     <h4>- Link zum Spielplan unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-B-Winter-Gruppe-1-Nord/gruppe/461779/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>
     <h4>- Link zum Spielplan unserer 2. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-C-Winter-Gruppe-1-West/gruppe/462562/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-C-Winter-Gruppe-1-West </a> </h4>
     <h4>- Link zu Informationen über den Spieltag-Ablauf gemäß <a href="https://www.bttv.de/news/data/2018/07/22/so-gehts-richtig-das-braunschweiger-system/" target=”_blank”> Braunschweiger Spiel-System </a> </h4>
