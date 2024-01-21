@@ -51,8 +51,8 @@ aktuelles_card1_bild: "AktuellesMueller1.jpg",
 aktuelles_card1_text: "VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstalter TSV Popp GbR.",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
-aktuelles_card2_unterueberschrift: "Jugend-Fußballturnier in der Werntalhalle vom 19.-21.01.2024",
+aktuelles_card2_ueberschrift: "Unsere Tischtennis-Jugendmannschaft",
+aktuelles_card2_unterueberschrift: "Poppenhausen I & II",
 aktuelles_card2_bild: "Aktuelles2.jpg",
 aktuelles_card2_text: "",
 
