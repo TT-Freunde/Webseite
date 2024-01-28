@@ -86,19 +86,19 @@
                     <br v-if="variable.pdf_bild_anzeige_tsv_aktiv">
                     <br>
                  -->
-                 <!--
+                 
                 <br>
                     <div class="row">
                     <div class="col-1"/>
                     <div class="col-10">
-                      <h3> Spielplan und Tabelle der TT-Jugendmannschaften des TSV Poppenhausen </h3>
+                      <h3> Spielplan TT-Jugendmannschaften des TSV Poppenhausen </h3>
                       <br>
-                    <iframe id="spielplan" src="https://www.mytischtennis.de/clicktt/ByTTV/23-24/ligen/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-1-Nordost-Bayerischer-TTV-Unterfranken-Nord-/gruppe/446746/mannschaft/2741056/TSV-Poppenhausen/spielplan/aktuell/" title="BTTV Portal"></iframe>
+                    <iframe id="spielplan" src="https://www.mytischtennis.de/clicktt/ByTTV/23-24/verein/102094/TSV-Poppenhausen-1910-e-V-/spielplan/" title="BTTV Portal"></iframe>
                     </div>
                     <div class="col-1"/>
                     </div>
                     <br>
-                    -->
+                    
         </div>
        <div class="col-1"/>
     </div> 
