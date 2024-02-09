@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h3>Bilder: Kids Open in der Werntalhalle mit 61 Teilnehmern aus 10 Vereinen des TT-Bezirks Ufr. Nord</h3><br>
+    <h3>Bilder: Kids Open im Mai 2023 in der Werntalhalle mit 61 Teilnehmern aus 10 Vereinen des TT-Bezirks Ufr. Nord</h3><br>
     <div class="row-fluid">
         <div class="col-12">
             <div class="cover-container">

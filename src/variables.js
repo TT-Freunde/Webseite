@@ -19,24 +19,24 @@ motivation_text_absatz1_fett: "",
 
 motivation_text_absatz2_1: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Trainiert und gespielt wird aktuell an 7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz2_2: "Aktuell haben wir uns in eine Jugend- und Erwachsenengruppe aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. Zwischen 17:00 Uhr und 18:30 Uhr trainiert unsere Jugendmannschaft. Ab ca. 18:30 Uhr bis ca. 20:00 trifft sich unsere Erwachsenen-Freizeitgruppe. Hier steht der Spaß und das Miteinander im Vordergrund.",
+motivation_text_absatz2_2: "Aktuell haben wir uns in eine 'Kindergruppe, bzw. BTTV-Jugendmannschaft' und eine 'Jugend- & Erwachsenen-Freizeitgruppe' aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. In unserer Freizeitgruppe steht der Spaß und das Miteinander im Vordergrund.",
 
-motivation_text_absatz3_1: "Besucht uns doch einfach mal beim Jugend-Training oder in der Freizeitgruppe. Ein herzliches Willkomen und ein Platz am TT-Tisch ist Euch garantiert!",
+motivation_text_absatz3_1: "BITTE BEACHTEN !! In der 'Kindergruppe, bzw. BTTV-Jugendmannschaft' können wir aktuell keine neuen Kinder/ Spieler aufnehmen.",
 
-motivation_text_absatz4_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).",
-
+motivation_text_absatz4_1: "Besucht uns doch einfach mal in der Freizeitgruppe ab 18:30 Uhr. Ein herzliches Willkomen und ein Platz an einer TT-Platte ist euch garantiert!",
+// Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
 trainingszeiten_aktiv: true,
 
-trainingszeiten_ueberschrift: "Trainingszeiten 2024",
+trainingszeiten_ueberschrift: "Trainingszeiten 2024 in der Werntalhalle in Poppenhausen",
 trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
-trainingszeiten_absatz1_ueberschrift: "Kinder bis ca. 16 Jahren (gemischt):",
-trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr in der Werntalhalle in 97490 Poppenhausen",
+trainingszeiten_absatz1_ueberschrift: "Kindergruppe bis ca. 14 Jahren, bzw. BTTV-Jugendmannschaft:",
+trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr ",
 
-trainingszeiten_absatz2_ueberschrift: "Jugend & Erwachsene (gemischt):",
-trainingszeiten_absatz2_text: "Donnerstag von 18:30 - ca. 20:00 Uhr in der Werntalhalle in 97490 Poppenhausen (Gelegentlich zwischen Januar und März 2024 auch erst ab 19:00 Uhr wegen TT-Jugendspieltag)",
+trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen-Freizeitgruppe:",
+trainingszeiten_absatz2_text: "Donnerstag von 18:30 - ca. 20:00 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
@@ -56,7 +56,7 @@ aktuelles_card2_unterueberschrift: "Poppenhausen I & II",
 aktuelles_card2_bild: "Aktuelles2.jpg",
 aktuelles_card2_text: "",
 
-aktuelles_card3_aktiv: true,
+aktuelles_card3_aktiv: false,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
 aktuelles_card3_unterueberschrift: "Wieder neu aufgelegt: Unser legendäres TSV Fachings-Event in der Werntalhalle am 03.02.2024 ab 19:00 Uhr ",
 aktuelles_card3_bild: "Fasching2.jpg", 
