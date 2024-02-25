@@ -19,11 +19,11 @@ motivation_text_absatz1_fett: "",
 
 motivation_text_absatz2_1: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Trainiert und gespielt wird aktuell an 7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz2_2: "Aktuell haben wir uns in eine 'Kindergruppe, bzw. BTTV-Jugendmannschaft' und eine 'Jugend- & Erwachsenen-Freizeitgruppe' aufgeteilt, um so besser auf jeden Einzelnen eingehen zu können. In unserer Freizeitgruppe steht der Spaß und das Miteinander im Vordergrund.",
+motivation_text_absatz2_2: "Aktuell haben wir uns in eine Anfängergruppe, BTTV-Jugendmannschaft und Jugend- & Erwachsenen-Freizeitgruppe aufgeteilt. In unseren Freizeitgruppen steht der Spaß und das Miteinander im Vordergrund (Training auf Anfrage).",
 
-motivation_text_absatz3_1: "BITTE BEACHTEN !! In der 'Kindergruppe, bzw. BTTV-Jugendmannschaft' können wir aktuell keine neuen Kinder/ Spieler aufnehmen.",
+motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Tischtennisspieler/-Innen bis ca. 14 Jahre an die u.g. Kontakte",
 
-motivation_text_absatz4_1: "Besucht uns doch einfach mal in der Freizeitgruppe ab 18:30 Uhr. Ein herzliches Willkomen und ein Platz an einer TT-Platte ist euch garantiert!",
+motivation_text_absatz4_1: "Besucht uns doch einfach mal in der Freizeitgruppe ab 18:45 Uhr.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
@@ -32,11 +32,11 @@ trainingszeiten_aktiv: true,
 trainingszeiten_ueberschrift: "Trainingszeiten 2024 in der Werntalhalle in Poppenhausen",
 trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
-trainingszeiten_absatz1_ueberschrift: "Kindergruppe bis ca. 14 Jahren, bzw. BTTV-Jugendmannschaft:",
-trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr ",
+trainingszeiten_absatz1_ueberschrift: "Jugend-Anfängergruppe bis ca. 14 Jahren & BTTV-Jugendmannschaft:",
+trainingszeiten_absatz1_text: "Jugend-Anfängergruppe: Donnerstag von 16:15 - 17:15 Uhr & BTTV-Jugendmannschaft Donnerstag von 17:00 - 18:00 Uhr",
 
-trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen-Freizeitgruppe:",
-trainingszeiten_absatz2_text: "Donnerstag von 18:30 - ca. 20:00 Uhr",
+trainingszeiten_absatz2_ueberschrift: "Jugend-Freizeitgruppe & Erwachsenen-Freizeitgruppe:",
+trainingszeiten_absatz2_text: "Jugend-Freizeitgruppe Donnerstag von 18:00 - 19:00 Uhr & Erwachsenen-Freizeitgruppe: 18:45- ca. 20:15 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
@@ -44,7 +44,7 @@ trainingszeiten_bild: "BildTurnhalle.jpeg",
 // Aktuelles:
 aktuelles_aktiv: true,
 
-aktuelles_card1_aktiv: true,
+aktuelles_card1_aktiv: false,
 aktuelles_card1_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
 aktuelles_card1_unterueberschrift: "Kabarett mit Michl Müller in der Werntalhalle am Sonntag, 25.02.2024 um 18 Uhr.",
 aktuelles_card1_bild: "AktuellesMueller1.jpg",
@@ -115,7 +115,7 @@ lernvideos_video4_source: "https://www.youtube-nocookie.com/embed/L50n1iscvOs",
 kontakt_aktiv: true,
 
 kontakt_name: "Lutz Urlau & Alexander Ortloff",
-kontakt_tel: "015123260710",
+kontakt_tel: "015123260710 & 01704762722",
 kontakt_mail: "tt.poppenhausen@outlook.de",
 
 // TSV Gruss:
