@@ -1,8 +1,8 @@
 <template>
 <div>
     <br>
-    <p style="font-size:28px;color:blue;"> Aktuelles vom 25.02.2024:</p>
-    <h4>- Im März 2024 findet kein Training unserer Jugend-Freizeitgruppe statt, da Heimspiele unserer Mannschaft stattfinden. Das Training der Herren-Freizeitgruppe verschiebt sich auf 19 Uhr.</h4>
+    <p style="font-size:28px;color:blue;"> Aktuelles vom 26.02.2024:</p>
+    <h4>- Vom 06.03.-11.04. findet kein Training unserer Jugend-Freizeitgruppe statt, da Heimspiele unserer Mannschaft stattfinden. Das Training der Herren-Freizeitgruppe verschiebt sich in dieser Zeit auf 19 Uhr.</h4>
     <h4>- Wir suchen eine(n) guten TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern.</h4>
     <h4>- Link zum Spielplan unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-B-Winter-Gruppe-1-Nord/gruppe/461779/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>
     <h4>- Link zum Spielplan unserer 2. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-C-Winter-Gruppe-1-West/gruppe/462562/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-C-Winter-Gruppe-1-West </a> </h4>

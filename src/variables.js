@@ -21,9 +21,9 @@ motivation_text_absatz2_1: "Daher treffen wir uns in gemischten Gruppen immer do
 
 motivation_text_absatz2_2: "Aktuell haben wir uns in eine Anfängergruppe, BTTV-Jugendmannschaft und Jugend- & Erwachsenen-Freizeitgruppe aufgeteilt. In unseren Freizeitgruppen steht der Spaß und das Miteinander im Vordergrund (Training auf Anfrage).",
 
-motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Tischtennisspieler/-Innen bis ca. 14 Jahre an die u.g. Kontakte",
+motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Tischtennisspieler/-Innen bis ca. 14 Jahre an die u.g. Kontakte.",
 
-motivation_text_absatz4_1: "Besucht uns doch einfach mal in der Freizeitgruppe ab 18:45 Uhr.",
+motivation_text_absatz4_1: "Interessierte Erwachsene können uns (=Erwachsenen-Freizeitgruppe) gerne donnerstags ab 18:45 Uhr besuchen.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
