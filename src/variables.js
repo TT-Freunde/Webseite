@@ -33,7 +33,7 @@ trainingszeiten_ueberschrift: "Trainingszeiten 2024 in der Werntalhalle in Poppe
 trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
 trainingszeiten_absatz1_ueberschrift: "Jugend-Anfängergruppe bis ca. 14 Jahren & BTTV-Jugendmannschaft:",
-trainingszeiten_absatz1_text: "Jugend-Anfängergruppe: Donnerstag von 16:15 - 17:15 Uhr & BTTV-Jugendmannschaft Donnerstag von 17:00 - 18:00 Uhr",
+trainingszeiten_absatz1_text: "Jugend-Anfängergruppe: Donnerstag von 16:10 - ca. 17:20 Uhr & BTTV-Jugendmannschaft Donnerstag von 17:00 - 18:30 Uhr",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend-Freizeitgruppe & Erwachsenen-Freizeitgruppe:",
 trainingszeiten_absatz2_text: "Jugend-Freizeitgruppe Donnerstag von 18:00 - 19:00 Uhr & Erwachsenen-Freizeitgruppe: 18:45- ca. 20:15 Uhr",
