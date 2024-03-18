@@ -19,11 +19,11 @@ motivation_text_absatz1_fett: "",
 
 motivation_text_absatz2_1: "Daher treffen wir uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Trainiert und gespielt wird aktuell an 7 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz2_2: "Aktuell haben wir uns in eine Anfängergruppe, BTTV-Jugendmannschaft und Jugend- & Erwachsenen-Freizeitgruppe aufgeteilt. In unseren Freizeitgruppen steht der Spaß und das Miteinander im Vordergrund (Training auf Anfrage).",
+motivation_text_absatz2_2: "Aktuell haben wir uns in eine Jugend-Anfängergruppe, BTTV-Jugendmannschaft und Jugend- & Erwachsenen-Freizeitgruppe aufgeteilt. In unseren Freizeitgruppen steht der Spaß und das Miteinander im Vordergrund (Training auf Anfrage).",
 
-motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Tischtennisspieler/-Innen bis ca. 14 Jahre an die u.g. Kontakte.",
+motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Kinder bis ca. 14 Jahre an die u.g. Kontakte.",
 
-motivation_text_absatz4_1: "Interessierte Jugendliche (ab ca. 16 Jahren) und Erwachsene können uns gerne donnerstags ab 18:45 Uhr besuchen.",
+motivation_text_absatz4_1: "Interessierte Jugendliche (ab ca. 15 Jahren) und Erwachsene können uns gerne donnerstags ab 18:45 Uhr besuchen.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
@@ -45,7 +45,7 @@ trainingszeiten_bild: "BildTurnhalle.jpeg",
 aktuelles_aktiv: true,
 
 aktuelles_card1_aktiv: true,
-aktuelles_card1_ueberschrift: "Bezirks-Ranglistentunier am 4.2.2024 in Dittelbrunn  ",
+aktuelles_card1_ueberschrift: "Jugend Bezirks-Ranglistentunier U13/ U15/ U19 am 4.2.2024 in Dittelbrunn  ",
 aktuelles_card1_unterueberschrift: "Ein tollen 3 & 4 Platz (von 17 Teilnehmern) erreichten Elias und Paul in der Altersklasse bis 15 Jahre",
 aktuelles_card1_bild: "3 Platz Rglt Hambach.jpg",
 aktuelles_card1_text: "",
