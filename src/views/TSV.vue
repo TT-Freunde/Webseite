@@ -26,9 +26,6 @@
             <h3>Termine in 2024</h3>   
              <br>
              <h5> (Teilnahme ist freiwillig. Weitere Infos über A. Ortloff) </h5>
-             <h5> - Fr-So, 08.-10. März - Mini/ Kids Open Turniere im Bezirk Nord, Mitte, Süd</h5>
-             <h5> - Sa, 13. Apr. 10:00  - Bezirksentscheid Minis Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
-             <h5> - Sa, 13. Apr. 10:00  - Bezirksentscheid Minis Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
              <h5> - So, 14. Apr. 10:00  - BezRLT (24-25) Jugend 15-11 Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
              <h5> - Fr, 19. Apr. 18:30  - Bezirksjugendforum Jugendleiter und Trainerinnen Unterfranken-Nord TSV-Sportheim Poppenhausen</h5>
              <h5> - Sa/So, 04/05. Mai   - TT-Co-Trainerausbildung in Würzburg - Teil 1</h5>

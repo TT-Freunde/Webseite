@@ -23,7 +23,7 @@ motivation_text_absatz2_2: "Aktuell haben wir uns in eine Anfängergruppe, BTTV-
 
 motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Tischtennisspieler/-Innen bis ca. 14 Jahre an die u.g. Kontakte.",
 
-motivation_text_absatz4_1: "Interessierte Erwachsene können uns (=Erwachsenen-Freizeitgruppe) gerne donnerstags ab 18:45 Uhr besuchen.",
+motivation_text_absatz4_1: "Interessierte Jugendliche (ab ca. 16 Jahren) und Erwachsene können uns gerne donnerstags ab 18:45 Uhr besuchen.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
@@ -36,7 +36,7 @@ trainingszeiten_absatz1_ueberschrift: "Jugend-Anfängergruppe bis ca. 14 Jahren 
 trainingszeiten_absatz1_text: "Jugend-Anfängergruppe: Donnerstag von 16:10 - ca. 17:20 Uhr & BTTV-Jugendmannschaft Donnerstag von 17:00 - 18:30 Uhr",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend-Freizeitgruppe & Erwachsenen-Freizeitgruppe:",
-trainingszeiten_absatz2_text: "Jugend-Freizeitgruppe Donnerstag von 18:00 - 19:00 Uhr & Erwachsenen-Freizeitgruppe: 18:45- ca. 20:15 Uhr",
+trainingszeiten_absatz2_text: "Jugend-Freizeitgruppe Donnerstag von 18:00 - 19:15 Uhr & Erwachsenen-Freizeitgruppe: 18:45- ca. 20:15 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
@@ -44,11 +44,11 @@ trainingszeiten_bild: "BildTurnhalle.jpeg",
 // Aktuelles:
 aktuelles_aktiv: true,
 
-aktuelles_card1_aktiv: false,
-aktuelles_card1_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
-aktuelles_card1_unterueberschrift: "Kabarett mit Michl Müller in der Werntalhalle am Sonntag, 25.02.2024 um 18 Uhr.",
-aktuelles_card1_bild: "AktuellesMueller1.jpg",
-aktuelles_card1_text: "VKK-Stellen in Poppenhausen: Metzgerei Mai, Bäckerei Köberlein und Schreibwaren Fenn. Veranstalter TSV Popp GbR.",
+aktuelles_card1_aktiv: true,
+aktuelles_card1_ueberschrift: "Bezirks-Ranglistentunier am 4.2.2024 in Dittelbrunn  ",
+aktuelles_card1_unterueberschrift: "Ein tollen 3 & 4 Platz (von 17 Teilnehmern) erreichten Elias und Paul in der Altersklasse bis 15 Jahre",
+aktuelles_card1_bild: "3 Platz Rglt Hambach.jpg",
+aktuelles_card1_text: "",
 
 aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "Unsere Tischtennis-Jugendmannschaft",
@@ -82,7 +82,7 @@ pdf_bild_anzeige_tsv_button: "als PDF öffnen",
 // Bilder ( Fehler: u.g.  Bilder fehlen noch ....):
 bilder_aktiv: true,
 
-bilder_bild1_aktiv: true,
+bilder_bild1_aktiv: false,
 bilder_bild1_source: "Open1.jpg",
 
 bilder_bild2_aktiv: true,
