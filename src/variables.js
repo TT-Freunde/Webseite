@@ -23,7 +23,7 @@ motivation_text_absatz2_2: "Aktuell haben wir uns in eine Jugend-Anfängergruppe
 
 motivation_text_absatz3_1: "Da wir im Jugendbereich schon viele aktive Spieler haben, wenden sich interessierte Kinder bis ca. 14 Jahre an die u.g. Kontakte.",
 
-motivation_text_absatz4_1: "Interessierte Jugendliche (ab ca. 15 Jahren) und Erwachsene können uns gerne donnerstags ab 18:45 Uhr besuchen.",
+motivation_text_absatz4_1: "Interessierte Jugendliche (ab ca. 15 Jahren) und Erwachsene können uns gerne donnerstags ab 18:35 Uhr besuchen.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
@@ -36,7 +36,7 @@ trainingszeiten_absatz1_ueberschrift: "Jugend-Anfängergruppe bis ca. 14 Jahren 
 trainingszeiten_absatz1_text: "Jugend-Anfängergruppe: Donnerstag von 16:10 - ca. 17:20 Uhr & BTTV-Jugendmannschaft Donnerstag von 17:00 - 18:30 Uhr",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend-Freizeitgruppe & Erwachsenen-Freizeitgruppe:",
-trainingszeiten_absatz2_text: "Jugend-Freizeitgruppe Donnerstag von 18:00 - 19:15 Uhr & Erwachsenen-Freizeitgruppe: 18:45- ca. 20:15 Uhr",
+trainingszeiten_absatz2_text: "Donnerstag von 18:35 - ca. 20:15 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
@@ -45,9 +45,9 @@ trainingszeiten_bild: "BildTurnhalle.jpeg",
 aktuelles_aktiv: true,
 
 aktuelles_card1_aktiv: true,
-aktuelles_card1_ueberschrift: "Jugend Bezirks-Ranglistentunier U13/ U15/ U19 am 4.2.2024 in Dittelbrunn  ",
-aktuelles_card1_unterueberschrift: "Ein tollen 3 & 4 Platz (von 17 Teilnehmern) erreichten Elias und Paul in der Altersklasse bis 15 Jahre",
-aktuelles_card1_bild: "3 Platz Rglt Hambach.jpg",
+aktuelles_card1_ueberschrift: "TT-Meister in der Winterrunde 2024 !",
+aktuelles_card1_unterueberschrift: "Stolz können die TT-Jungs der 2. Mannschaft sein, die sich den 1. Platz im letzten Runden-Spiel zurückeroberten",
+aktuelles_card1_bild: "1_Platz_PH2_Winter2024.jpg",
 aktuelles_card1_text: "",
 
 aktuelles_card2_aktiv: true,

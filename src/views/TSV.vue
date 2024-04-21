@@ -3,9 +3,10 @@
         <div class="col-1"/>
             <div class="col-10">
              <br>
+             <!--
              <hr>
               <center>   
-                <h3>Start der Tischtennis-Winter-Rückrunde ab 11. Januar 2024 (bis etwa 14. April 2024)</h3>
+                <h3>In Planung U19 Tischtennis-Herbst-Runde von Oktober-Dezember 2024</h3>
                 <br>
                 <h5>Die Aufteilung der Spieler in die 1. und 2. Mannschaft eines Vereins erfolgt auf Basis des quartalsmäßig erhobenen TT-Rating-Wert (kurz QTTR) jedes Spielers.</h5>
                 <br>
@@ -20,14 +21,14 @@
                 <h5> <a href="https://de.wikipedia.org/wiki/Tischtennis-Rating" target=”_blank”> Was ist der QTTR Wert? (Siehe Wikipedia) </a></h5>
                 <br>
                 <h5>Alle Kids, welche nicht in der BTTV Mannschaft sind, bzw. im BTTV-Tischtennis-Ranking auf etwa 800 TTR-Punkte kommen, können an den Bezirks-Kids-Open (kurz BKO, bzw. Turniere für TT-Einsteiger) teilnehmen. Diese finden in der Regel 1x im Quartal statt.</h5>
-                <br>                
+                <br> 
+                -->               
               <hr>
               <br>
             <h3>Termine in 2024</h3>   
              <br>
              <h5> (Teilnahme ist freiwillig. Weitere Infos über A. Ortloff) </h5>
-             <h5> - So, 14. Apr. 10:00  - BezRLT (24-25) Jugend 15-11 Unterfranken-Nord Rudi-Erhard-Halle Burglauer</h5>
-             <h5> - Fr, 19. Apr. 18:30  - Bezirksjugendforum Jugendleiter und Trainerinnen Unterfranken-Nord TSV-Sportheim Poppenhausen</h5>
+             <h5> - Mo, 6. Mai 18:30    - Bezirksjugendforum Jugendleiter und Trainerinnen Unterfranken-Nord TSV-Sportheim Poppenhausen</h5>
              <h5> - Sa/So, 04/05. Mai   - TT-Co-Trainerausbildung in Würzburg - Teil 1</h5>
              <h5> - Sa, 11. Mai. 11:00  - BKO (Bezirk-Kids-Open) Jg. 2011 und jünger o. TTR bis 800 Unterfranken-Nord Schulturnhalle Schwanfeld</h5>
              <h5> - Do-So, 13.-16. Juni - <a href="https://www.tt-finals.de/" target=”_blank”> TT Finals (Deutsch Meisterschaft), Erfurt  </a></h5>
