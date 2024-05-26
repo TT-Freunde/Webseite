@@ -1,7 +1,9 @@
 <template>
 <div>
     <br>
-    <p style="font-size:28px;color:blue;"> Aktuelles vom 21.04.2024:</p>
+    <p style="font-size:28px;color:blue;"> Aktuelles vom 26.05.2024:</p>
+    <h4>- In den Monaten Mai-September bieten wir kein Anfängertraining an. Interresierte Tischtennisfreunde können uns in der Freizeitgruppe besuchen oder sich an die Kontakte wenden.</h4>
+    <h4>- In den Monaten Mai-September finden keine TT-Verbandsspiele statt. Die Vorrunde beginnt wieder Ende September und endet Mitte Dezember. Die Rückrunde findet von Januar bis April statt.</h4>
     <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern und das ein oder andere mal die Mannschaften bei BTTV-Spielen zu begleiten.</h4>
     <!--
     <h4>- Link zum Winter-Spielplan 2024 unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-23-24/jugend-punktspiele-rr/Bezirksklasse-B-Winter-Gruppe-1-Nord/gruppe/461779/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>
