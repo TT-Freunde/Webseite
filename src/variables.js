@@ -17,13 +17,13 @@ motivation_text_ueberschrift: "Unsere „Motivation“",
 motivation_text_absatz1: "Tischtennis gilt als Sport und Spiel der Flexiblen und Kreativen in jeder Altersklasse und mit geringem Verletzungsrisiko. Zusätzlich werden Koordination, Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit, Taktik und mentale Stärke im Wettkampf trainiert.",
 motivation_text_absatz1_fett: "",
 
-motivation_text_absatz2_1: "Daher treffen wir (und Gäste) uns in gemischten Gruppen immer donnerstags in der Wernthalhalle. Trainiert und gespielt wird aktuell an 8 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
+motivation_text_absatz2_1: "Daher treffen wir (und Gäste) uns in gemischten Gruppen immer donnerstags in der Wernthalhalle Poppenhausen.",
 
-motivation_text_absatz2_2: "Aktuell haben wir uns in eine Jugendmannschaft und Jugend- & Erwachsenen-Freizeitgruppe aufgeteilt. In unserer Freizeitgruppe steht der Spaß und das Miteinander im Vordergrund.",
+motivation_text_absatz2_2: "Trainiert und gespielt wird aktuell an 8 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz3_1: "Anfängertraining bieten wir nur auf Anfrage an. Wendet Euch dafür bitte an die u.g. Kontakte.",
+motivation_text_absatz3_1: "",
 
-motivation_text_absatz4_1: "Interessierte Kinder, Jugendliche, Erwachsene können uns gerne donnerstags ab 18:35 Uhr besuchen und 'schnuppern'.",
+motivation_text_absatz4_1: "Interessierte Kinder, Jugendliche, Erwachsene können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
@@ -35,8 +35,8 @@ trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da di
 trainingszeiten_absatz1_ueberschrift: "Jugendmannschaft Bezirksklasse Ufr-Nord:",
 trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr",
 
-trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen-Freizeitgruppe:",
-trainingszeiten_absatz2_text: "Donnerstag von 18:35 - ca. 20:15 Uhr",
+trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen - Freizeitgruppe:",
+trainingszeiten_absatz2_text: "Donnerstag von 18:30 - ca. 20:15 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
