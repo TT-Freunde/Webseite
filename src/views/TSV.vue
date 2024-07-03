@@ -27,13 +27,6 @@
               <br>
             <h3>Termine in 2024</h3>   
              <br>
-             <h5> - Mo, 6. Mai 18:30    - Bezirksjugendforum Jugendleiter und Trainerinnen Unterfranken-Nord TSV-Sportheim Poppenhausen</h5>
-             <h5> - Sa/So, 04/05. Mai   - TT-Co-Trainerausbildung in Würzburg - Teil 1</h5>
-             <h5> - Sa, 11. Mai. 11:00  - BKO (Bezirk-Kids-Open) Jg. 2011 und jünger o. TTR bis 800 Unterfranken-Nord Schulturnhalle Schwanfeld</h5>
-             <h5> - Do-So, 13.-16. Juni - <a href="https://www.tt-finals.de/" target=”_blank”> TT Finals (Deutsch Meisterschaft), Erfurt  </a></h5>
-             <h5> - So, 14. Jul. 11:00  - BKO (Bezirk-Kids-Open) Jg. 2011 und jünger o. TTR bis 800 Unterfranken-Nord Hugo-von-Trimberg-Halle Ndw. </h5>
-            <hr>
-             <br>
              <br>
                 <h3> Alle Termine im TT-Bezirks Ufr Nord des Bayrischer Tischtennis Verband in 2024</h3>
                 <h5><a href="https://www.bttv.de/fileadmin/bttv/media/b02/Termine/BTTV-UfrN__I__231101_-ST__Terminplan_.pdf" target=”_blank”> Siehe BTTV Portal - Bezirk Ufr Nord </a></h5>
