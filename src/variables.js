@@ -14,7 +14,7 @@ startseiten_bild: "tt_banner_header_new.png",
 motivation_aktiv: true,
 
 motivation_text_ueberschrift: "Unsere „Motivation“",
-motivation_text_absatz1: "Tischtennis gilt als Sport und Spiel der Flexiblen und Kreativen in jeder Altersklasse und mit geringem Verletzungsrisiko. Zusätzlich werden Koordination, Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit, Taktik und mentale Stärke im Wettkampf trainiert.",
+motivation_text_absatz1: "Tischtennis gilt als Sport und Spiel der Flexiblen und Kreativen in jeder Altersklasse und mit geringem Verletzungsrisiko. Neben den verschiedenen Schlagtechniken werden zusätzlich Koordination, Reaktionsfähigkeit, Konzentrationsfähigkeit, Schnelligkeit, Taktik und mentale Stärke im Wettkampf trainiert.",
 motivation_text_absatz1_fett: "",
 
 motivation_text_absatz2_1: "Daher treffen wir (und Gäste) uns in gemischten Gruppen immer donnerstags in der Wernthalhalle Poppenhausen.",
@@ -23,7 +23,7 @@ motivation_text_absatz2_2: "Trainiert und gespielt wird aktuell an 8 TT-Platten 
 
 motivation_text_absatz3_1: "Interessierte Kinder, Jugendliche, Erwachsene können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
 
-motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:30 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Bitte kurze Info via Whats App an einen der u.g. Kontakte",
+motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:30 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:

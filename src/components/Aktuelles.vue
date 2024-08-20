@@ -1,8 +1,10 @@
 <template>
 <div>
     <br>
-    <p style="font-size:28px;color:blue;"> Aktuelles vom 03.07.2024:</p>
-    <h4>- In den Monaten Mai-September finden keine TT-Verbandsspiele statt. Die Vorrunde beginnt wieder Ende September und endet Mitte Dezember. Die Rückrunde findet von Januar bis April statt.</h4>
+    <p style="font-size:28px;color:blue;"> Aktuelles vom 20.08.2024:</p>
+    <h4>- Wir machen in den Sommerferien unsere TT-Training Sommerpause.</h4>
+    <h4>- Nächster Termin: Spiel Poppenhausen II. gegen TSV Obbach am 13.09.2024 </h4>
+    <h4>- In den Monaten Mai-September finden keine TT-Verbandsspiele statt. Die Vorrunde beginnt wieder Ende September und endet Mitte Dezember. Die Rückrunde findet von Januar bis April 2025 statt.</h4>
     <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern und das ein oder andere mal die Mannschaften bei BTTV-Spielen zu begleiten.</h4>
     <h4>- Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:30 Uhr frei haben, sind auch Gastspieler anderer Vereine willkommen.</h4>
     <!--
