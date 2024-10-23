@@ -23,7 +23,7 @@ motivation_text_absatz2_2: "Trainiert und gespielt wird aktuell an 8 TT-Platten 
 
 motivation_text_absatz3_1: "Interessierte Kinder, Jugendliche, Erwachsene können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
 
-motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:30 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
+motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:15 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
