@@ -1,10 +1,10 @@
 <template>
 <div>
     <br>
-    <p style="font-size:28px;color:blue;"> Aktuelles vom 23.10.2024:</p>
-    <h4>- Bis zum 5.12.2024 läuft die Vorrunde für unsere Jugendmannschaft in der Bezirksklasse B und C  </h4>
-    <h4>- Die Rückrunde findet von Januar bis April 2025 statt.</h4>
-    <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern und das ein oder andere mal die Mannschaften bei BTTV-Spielen zu begleiten.</h4>
+    <p style="font-size:28px;color:blue;"> Aktuelles vom 01.01.2025:</p>
+    <h4>- Vom 12.01. bis zum 12.04.2025 läuft die Rückrunde Winter 2025 für unsere Jugendmannschaften in der Bezirksklasse A und C  </h4>
+    <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern.</h4>
+    <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die unsere BKA Mannschaft trainiert </h4>
     <h4>- Da wir i.d.R. immer eine TT-Platte zwischen 18:15 - 20:00 Uhr frei haben, sind auch Gastspieler anderer Vereine willkommen.</h4>
      <br>
     <h4>- Link zum Winter-Spielplan 2024 unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JVR-24-25/jugend-punktspiele-vr/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-2-Mitte-Bayerischer-TTV-Unterfranken-Nord-/gruppe/468920/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>

@@ -23,20 +23,20 @@ motivation_text_absatz2_2: "Trainiert und gespielt wird aktuell an 8 TT-Platten 
 
 motivation_text_absatz3_1: "Interessierte Kinder, Jugendliche, Erwachsene können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
 
-motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:15 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
+motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:00 - 20:00 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
 trainingszeiten_aktiv: true,
 
-trainingszeiten_ueberschrift: "Trainingszeiten 2024 in der Werntalhalle in Poppenhausen",
+trainingszeiten_ueberschrift: "Trainingszeiten 2025 in der Werntalhalle in Poppenhausen",
 trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
 trainingszeiten_absatz1_ueberschrift: "Jugendmannschaft Bezirksklasse Ufr-Nord:",
 trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen - Freizeitgruppe:",
-trainingszeiten_absatz2_text: "Donnerstag von 18:30 - ca. 20:15 Uhr",
+trainingszeiten_absatz2_text: "Donnerstag von 18:30 - 20:00 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
@@ -51,16 +51,16 @@ aktuelles_card1_bild: "1_Platz_PH2_Winter2024.jpg",
 aktuelles_card1_text: "",
 
 aktuelles_card2_aktiv: true,
-aktuelles_card2_ueberschrift: "Unsere Tischtennis-Jugendmannschaft",
-aktuelles_card2_unterueberschrift: "Poppenhausen I & II",
-aktuelles_card2_bild: "Aktuelles2.jpg",
-aktuelles_card2_text: "",
+aktuelles_card2_ueberschrift: "TT-Meister in der Winterrunde in der BKB Ufr-Nord 2024 !",
+aktuelles_card2_unterueberschrift: "Stolz können die TT-Jungs der 1. Mannschaft sein, die sich den 1. Platz im letzten Runden-Spiel zurückeroberten",
+aktuelles_card2_bild: "MeisterVRHerbst2024.jpg",
+aktuelles_card2_text: "Aufsteieg in die BKA UFR-Nord zur RR 2025",
 
-aktuelles_card3_aktiv: false,
+aktuelles_card3_aktiv: true,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
-aktuelles_card3_unterueberschrift: "Wieder neu aufgelegt: Unser legendäres TSV Fachings-Event in der Werntalhalle am 03.02.2024 ab 19:00 Uhr ",
-aktuelles_card3_bild: "Fasching2.jpg", 
-aktuelles_card3_text: "mit LIVE-Musik von High-Five, unserer Garde Werntalfunken und dem Männerbalett",
+aktuelles_card3_unterueberschrift: "Wieder neu aufgelegt: Unser Kabarett-Event im März 2025.",
+aktuelles_card3_bild: "Krebs30032025.jpg", 
+aktuelles_card3_text: "Wolfgang Krebs: BAVARIA FIRST!",
 
 
 // PDF_Bild-Anzeige Home (wenn home_aktiv = true, dann anzeige in Home; wenn home_pdf true, dann pdf statt Bild aktiv)
