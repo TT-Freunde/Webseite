@@ -57,7 +57,7 @@ aktuelles_card2_bild: "MeisterVRHerbst2024.jpg",
 aktuelles_card2_text: "Aufsteieg in die BKA UFR-Nord zur RR 2025",
 
 aktuelles_card3_aktiv: true,
-aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen:",
+aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen :",
 aktuelles_card3_unterueberschrift: "Wieder neu aufgelegt: Unser Kabarett-Event im März 2025.",
 aktuelles_card3_bild: "Krebs30032025.jpg", 
 aktuelles_card3_text: "Wolfgang Krebs: BAVARIA FIRST!",
