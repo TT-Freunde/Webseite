@@ -1,14 +1,14 @@
 <template>
 <div>
     <br>
-    <p style="font-size:28px;color:blue;"> Aktuelles vom 01.01.2025:</p>
-    <h4>- Vom 12.01. bis zum 12.04.2025 findet die Rückrunde Winter 2025 für unsere Jugendmannschaften in der Bezirksklasse A und C statt. </h4>
+    <p style="font-size:28px;color:blue;"> Aktuelles vom 01.04.2025:</p>
+    <h4>- Vom 12.01. bis ca. Mitte April 2025 findet die Rückrunde Winter 2025 für unsere Jugendmannschaften in der Bezirksklasse A und C statt. </h4>
     <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern.</h4>
-    <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die unsere BKA Mannschaft trainiert </h4>
-    <h4>- Da wir i.d.R. immer eine TT-Platte zwischen 18:15 - 20:00 Uhr frei haben, sind auch Gastspieler anderer Vereine willkommen.</h4>
+    <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die unsere BKA U19 Jugend - Mannschaft (5 Spieler) anleitet. </h4>
+    <h4>- Da wir i.d.R. immer eine TT-Platte zwischen 18:30 - etwa 20:00 Uhr frei haben, sind auch Gastspieler anderer Vereine willkommen.</h4>
      <br>
-    <h4>- Link zum Winter-Spielplan 2024 unserer 1. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JVR-24-25/jugend-punktspiele-vr/Jugend-19-Bezirksklasse-B-Herbst-Gruppe-2-Mitte-Bayerischer-TTV-Unterfranken-Nord-/gruppe/468920/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>
-    <h4>- Link zum Winter-Spielplan 2024 unserer 2. Jugendmannschaft in 2024 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JVR-24-25/jugend-punktspiele-vr/Jugend-19-Bezirksklasse-C-Herbst-Gruppe-2-Nordwest-Bayerischer-TTV-Unterfranken-Nord-/gruppe/468946/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-C-Winter-Gruppe-1-West </a> </h4>
+    <h4>- Link zum Winter-Spielplan 2024 unserer 1. Jugendmannschaft in 2025 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-24-25/jugend-punktspiele-rr/Jugend-19-Bezirksklasse-A-Winter-Bayerischer-TTV-Unterfranken-Nord-/gruppe/486098/tabelle/gesamt/" target=”_blank”> BTTV Bezirksklasse-B-Winter-Gruppe-1-Nord </a> </h4>
+    <h4>- Link zum Winter-Spielplan 2024 unserer 2. Jugendmannschaft in 2025 <a href="https://www.mytischtennis.de/clicktt/ByTTV/JRR-24-25/jugend-punktspiele-rr/Jugend-19-Bezirksklasse-A-Winter-Bayerischer-TTV-Unterfranken-Nord-/gruppe/486098/mannschaft/2940427/TSV-Poppenhausen/infos/" target=”_blank”> BTTV Bezirksklasse-C-Winter-Gruppe-1-West </a> </h4>
      <br>
     <br>
     <h4>- Link zu Informationen über den Spieltag-Ablauf gemäß <a href="https://www.bttv.de/news/data/2018/07/22/so-gehts-richtig-das-braunschweiger-system/" target=”_blank”> Braunschweiger Spiel-System </a> </h4>
