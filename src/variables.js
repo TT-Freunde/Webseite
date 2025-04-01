@@ -54,7 +54,7 @@ aktuelles_card2_aktiv: true,
 aktuelles_card2_ueberschrift: "TT-Meister in der Winterrunde in der BKB Ufr-Nord 2024 !",
 aktuelles_card2_unterueberschrift: "Stolz können die TT-Jungs der 1. Mannschaft sein, die sich den 1. Platz im letzten Runden-Spiel zurückeroberten",
 aktuelles_card2_bild: "MeisterVRHerbst2024.jpg",
-aktuelles_card2_text: "Aufsteieg in die BKA UFR-Nord zur RR 2025",
+aktuelles_card2_text: "Aufstieg in die BKA UFR-Nord zur RR 2025",
 
 aktuelles_card3_aktiv: false,
 aktuelles_card3_ueberschrift: "Aktuelles vom TSV Poppenhausen :",

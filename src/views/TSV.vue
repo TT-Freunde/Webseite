@@ -25,7 +25,7 @@
                 -->               
               <hr>
               <br>
-            <h3>Termine in 2024</h3>   
+            <h3>Termine in 2025</h3>   
              <br>
                <h5><a href="https://www.bttv.de/unterfranken-nord" target=”_blank”> Siehe BTTV Portal - Bezirk Ufr Nord </a></h5>
                 <br>
