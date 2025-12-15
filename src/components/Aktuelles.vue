@@ -1,8 +1,7 @@
 <template>
 <div>
     <br>
-    <p style="font-size:28px;color:blue;"> Aktuelles vom 01.04.2025:</p>
-    <h4>- Vom 12.01. bis ca. Mitte April 2025 findet die Rückrunde Winter 2025 für unsere Jugendmannschaften in der Bezirksklasse A und C statt. </h4>
+    <p style="font-size:28px;color:blue;"> Aktuelles:</p>
     <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die uns unterstützt, die Fähigkeiten unserer Kinder und Jugendlichen im Tischtennisspiel zu erweitern.</h4>
     <h4>- Wir suchen eine(n) TT-Spieler/-in, der/ die unsere BKA U19 Jugend - Mannschaft (5 Spieler) anleitet. </h4>
     <h4>- Da wir i.d.R. immer eine TT-Platte zwischen 18:30 - etwa 20:00 Uhr frei haben, sind auch Gastspieler anderer Vereine willkommen.</h4>

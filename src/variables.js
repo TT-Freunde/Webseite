@@ -23,26 +23,26 @@ motivation_text_absatz2_2: "Trainiert und gespielt wird aktuell an 8 TT-Platten 
 
 motivation_text_absatz3_1: "Interessierte Kinder, Jugendliche, Erwachsene können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
 
-motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:30 - 20:15 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
+motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:30 - 20:00 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
 trainingszeiten_aktiv: true,
 
-trainingszeiten_ueberschrift: "Trainingszeiten 2025 in der Werntalhalle in Poppenhausen",
+trainingszeiten_ueberschrift: "Trainingszeiten 2026 in der Werntalhalle in Poppenhausen",
 trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
 trainingszeiten_absatz1_ueberschrift: "Jugendmannschaft Bezirksklasse Ufr-Nord:",
 trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen - Freizeitgruppe:",
-trainingszeiten_absatz2_text: "Donnerstag von 18:30 - 20:15 Uhr",
+trainingszeiten_absatz2_text: "Donnerstag von 18:30 - 20:00 Uhr",
 
 trainingszeiten_bild: "BildTurnhalle.jpeg",
 
 
 // Aktuelles:
-aktuelles_aktiv: true,
+aktuelles_aktiv: false,
 
 aktuelles_card1_aktiv: false,
 aktuelles_card1_ueberschrift: "TT-Meister in der Winterrunde 2024 !",
@@ -50,7 +50,7 @@ aktuelles_card1_unterueberschrift: "Stolz können die TT-Jungs der 2. Mannschaft
 aktuelles_card1_bild: "1_Platz_PH2_Winter2024.jpg",
 aktuelles_card1_text: "",
 
-aktuelles_card2_aktiv: true,
+aktuelles_card2_aktiv: false,
 aktuelles_card2_ueberschrift: "TT-Meister in der Winterrunde in der BKB Ufr-Nord 2024 !",
 aktuelles_card2_unterueberschrift: "Stolz können die TT-Jungs der 1. Mannschaft sein, die sich den 1. Platz im letzten Runden-Spiel zurückeroberten",
 aktuelles_card2_bild: "MeisterVRHerbst2024.jpg",
@@ -114,8 +114,8 @@ lernvideos_video4_source: "https://www.youtube-nocookie.com/embed/L50n1iscvOs",
 // Kontakt:
 kontakt_aktiv: true,
 
-kontakt_name: "Lutz Urlau & Alexander Ortloff",
-kontakt_tel: "015123260710 & 01704762722",
+kontakt_name: "Lutz Urlau",
+kontakt_tel: "015123260710",
 kontakt_mail: "tt.poppenhausen@outlook.de",
 
 // TSV Gruss:
