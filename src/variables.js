@@ -21,9 +21,9 @@ motivation_text_absatz2_1: "Daher treffen wir (und Gäste) uns in gemischten Gru
 
 motivation_text_absatz2_2: "Trainiert und gespielt wird aktuell an 8 TT-Platten und bei Bedarf an unserem Butterfly TT-Roboter.",
 
-motivation_text_absatz3_1: "Interessierte Erwachsene & Senioren können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
+motivation_text_absatz3_1: "Interessierte Erwachsene können uns gerne donnerstags ab 18:30 Uhr besuchen und 'schnuppern'.",
 
-motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:30 - 20:00 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via Whats App an einen der u.g. Kontakte.",
+motivation_text_absatz4_1: "Da wir i.d.R. immer eine TT-Platte zwischen 18:30 - 20:00 Uhr frei haben, sind auch Gastspieler (anderer Vereine) willkommen. Ggf. kurze Info via WhatsApp über den Kontakt.",
 // Da wir im Jugendbereich schon viele aktive Spieler haben, wäre es prima, wenn Ihr bereits erste Tischtennis-Fertigkeiten besitzt (z.B. kann der Ball auf dem Schläger ca. 5x nach oben getippt/ gespielt werden. Abwechselnd Vor-und Rückhand).
 
 // Trainingszeiten:
@@ -32,7 +32,7 @@ trainingszeiten_aktiv: true,
 trainingszeiten_ueberschrift: "Trainingszeiten 2026 in der Werntalhalle in Poppenhausen",
 trainingszeiten_unterueberschrift: "(In den Schulferien ist kein Training, da die Werntalhalle geschlossen ist)",
 
-trainingszeiten_absatz1_ueberschrift: "Jugendmannschaft Bezirksklasse Ufr-Nord:",
+trainingszeiten_absatz1_ueberschrift: "Jugendmannschaft(en):",
 trainingszeiten_absatz1_text: "Donnerstag von 17:00 - 18:30 Uhr",
 
 trainingszeiten_absatz2_ueberschrift: "Jugend- & Erwachsenen - Freizeitgruppe:",
